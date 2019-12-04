@@ -8,8 +8,7 @@
 
 @snap[north span-30]
 ![IMAGE](http://popcornfor2.com/upload/user_3/images/2556/Oct/H/04/46603173.jpg)
-######  
-@size[0.7em](**แกเบรียล แวน เฮลซิง**)
+@size[0.7em](**ชื่อ แกเบรียล  แวน เฮลซิง**)
 #### 
 #### คุณสมบัติ
 
@@ -25,6 +24,29 @@
 
 @snap[south-east span-30 text-06 fragment]
 @box[rounded text-white box-graphql](@size[1.5em](สกิลพระเอก))
+@snapend
+
+---
+
+
+@snap[north span-30]
+![IMAGE](http://images4.fanpop.com/image/photos/23900000/Anna-Valerious-Van-Helsing-female-movie-characters-23970744-1024-768.jpg)
+@size[0.7em](**ชื่อ แอนนา วาเลอเรียส**)
+#### 
+#### คุณสมบัติ
+
+@snapend
+
+@snap[south-west span-30 text-06 fragment]
+@box[rounded text-white box-graphql](@size[1.5em](ดาบคาตานะ))
+@snapend
+
+@snap[south span-30 text-06 fragment]
+@box[rounded text-white box-graphql](@size[1.5em](ปืน))
+@snapend
+
+@snap[south-east span-30 text-06 fragment]
+@box[rounded text-white box-graphql](@size[1.5em](สกิลนางเอก))
 @snapend
 
 ---
