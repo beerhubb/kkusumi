@@ -9,18 +9,20 @@
 @snap[north span-30]
 #### แกเบรียล แวน เฮลซิง
 ![IMAGE](http://popcornfor2.com/upload/user_3/images/2556/Oct/H/04/46603173.jpg)
+
+### คุณสมบัติ
 @snapend
 
 @snap[south-west span-30 text-06 fragment]
-@box[rounded text-white box-graphql](กงจัก)
+@box[rounded text-white box-graphql](@size[0.6em](กงจัก))
 @snapend
 
 @snap[south span-30 text-06 fragment]
-@box[rounded text-white box-graphql](หน้าไม้)
+@box[rounded text-white box-graphql](@size[0.6em](หน้าไม้))
 @snapend
 
 @snap[south-east span-30 text-06 fragment]
-@box[rounded text-white box-graphql](สกิลพระเอก)
+@box[rounded text-white box-graphql]@size[0.6em](สกิลพระเอก))
 @snapend
 
 ---
