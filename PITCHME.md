@@ -33,15 +33,15 @@
 ![IMAGE](http://images4.fanpop.com/image/photos/23900000/Anna-Valerious-Van-Helsing-female-movie-characters-23970744-1024-768.jpg)
 @snapend
 
-@snap[east span-50 text-06 fragment]
+@snap[north-east span-80 text-06 fragment]
 @box[rounded text-white box-graphql](@size[1.5em](ดาบคาตานะ))
 @snapend
 
-@snap[east span-50 text-06 fragment]
+@snap[east span-80 text-06 fragment]
 @box[rounded text-white box-graphql](@size[1.5em](ปืน))
 @snapend
 
-@snap[east span-50 text-06 fragment]
+@snap[south-east span-80 text-06 fragment]
 @box[rounded text-white box-graphql](@size[1.5em](สกิลนางเอก))
 @snapend
 
