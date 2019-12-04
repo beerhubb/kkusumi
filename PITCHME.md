@@ -31,15 +31,13 @@
 
 @snap[north span-30]
 ![IMAGE](http://images4.fanpop.com/image/photos/23900000/Anna-Valerious-Van-Helsing-female-movie-characters-23970744-1024-768.jpg)
-@size[0.7em](**ชื่อ แอนนา วาเลอเรียส**)
+@size[0.7em](**แอนนา วาเลอเรียส**)
 #### 
 #### คุณสมบัติ
-
 @snapend
 
-@snap[south-west span-30 text-06 fragment]
+
 @box[rounded text-white box-graphql](@size[1.5em](ดาบคาตานะ))
-@snapend
 
 @snap[south span-30 text-06 fragment]
 @box[rounded text-white box-graphql](@size[1.5em](ปืน))
