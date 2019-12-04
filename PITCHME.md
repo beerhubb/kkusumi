@@ -33,12 +33,13 @@
 ![IMAGE](http://images4.fanpop.com/image/photos/23900000/Anna-Valerious-Van-Helsing-female-movie-characters-23970744-1024-768.jpg)
 @snapend
 
-@snap[east span-55 text-center]
-@ul[list-square-bullets striped-list-items](false)
+@snap[midpoint list-content-concise span-100] @size1.5em
+@color[](คุณสมบัติ)
+@ol
 - ดาบ
 - ธนู
-@ulend
-@snapend
+- น้ำมนต์
+@olend @snapend
 
 ---
 
