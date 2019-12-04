@@ -6,12 +6,12 @@
 
 ---
 
-@snap[west span-40]
+@snap[west span-50]
 #### Architecture Diagram
 ![IMAGE](http://popcornfor2.com/upload/user_3/images/2556/Oct/H/04/46603173.jpg)
 @snapend
 
-@snap[west span-60]
+@snap[north-east span-50]
 #### asd
 @snapend
 
