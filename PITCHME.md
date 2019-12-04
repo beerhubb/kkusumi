@@ -7,7 +7,8 @@
 ---
 
 @snap[north span-30]
-#### แกเบรียล แวน เฮลซิง ####
+@size[2em](แกเบรียล แวน เฮลซิง)
+ 
 ![IMAGE](http://popcornfor2.com/upload/user_3/images/2556/Oct/H/04/46603173.jpg)
 
 #### คุณสมบัติ
