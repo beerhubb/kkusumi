@@ -33,16 +33,11 @@
 ![IMAGE](http://images4.fanpop.com/image/photos/23900000/Anna-Valerious-Van-Helsing-female-movie-characters-23970744-1024-768.jpg)
 @snapend
 
-@snap[north-east span-80 text-06 fragment]
-@box[rounded text-white box-graphql](@size[1.5em](ดาบคาตานะ))
-@snapend
-
-@snap[east span-80 text-06 fragment]
-@box[rounded text-white box-graphql](@size[1.5em](ปืน))
-@snapend
-
-@snap[south-east span-80 text-06 fragment]
-@box[rounded text-white box-graphql](@size[1.5em](สกิลนางเอก))
+@snap[east span-55 text-center]
+@ul[list-square-bullets striped-list-items](false)
+- ดาบ
+- ธนู
+@ulend
 @snapend
 
 ---
