@@ -8,9 +8,9 @@
 
 @snap[north span-30]
 ![IMAGE](http://popcornfor2.com/upload/user_3/images/2556/Oct/H/04/46603173.jpg)
-@size[0.7em](**ชื่อ แกเบรียล  แวน เฮลซิง**)
+@size[0.7em](**แกเบรียล  แวน เฮลซิง**)
 #### 
-#### คุณสมบัติ
+#### อาวุธที่ใช้
 
 @snapend
 
@@ -28,17 +28,32 @@
 
 ---
 
-
 @snap[west span-50]
 ![IMAGE](http://images4.fanpop.com/image/photos/23900000/Anna-Valerious-Van-Helsing-female-movie-characters-23970744-1024-768.jpg)
 @snapend
 
 @snap[east span-30] @size1.5em
-@color[](คุณสมบัติ)
+#### แอนนา วาเลอเรียส
+@color[](อาวุธที่ใช้)
 @ol
 - ดาบ
 - ธนู
 - น้ำมนต์
+@olend @snapend
+
+---
+
+@snap[west span-50]
+![IMAGE](http://image.dek-d.com/25/1240588/111088856)
+@snapend
+
+@snap[east span-30] @size1.5em
+#### เคานต์แดร็กคิวลา
+@color[](อาวุธที่ใช้)
+@ol
+- เคี้ยว
+- เล็บ
+- มนต์เสน่ห์
 @olend @snapend
 
 ---
