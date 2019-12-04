@@ -6,9 +6,7 @@
 
 ---
 
-@snap[north span-30]
 @size[0.7em](**แกเบรียล แวน เฮลซิง**)
-@snapend
 
 @snap[north span-30]
 ![IMAGE](http://popcornfor2.com/upload/user_3/images/2556/Oct/H/04/46603173.jpg)
