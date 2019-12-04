@@ -8,14 +8,9 @@
 
 @snap[north span-40]
 
-### GraphQL
-@fa[quote-left quote-graphql text-white](A query language for your API)
-
-@snapend
-
-@snap[midpoint span-60]
 #### Architecture Diagram
 ![IMAGE](http://popcornfor2.com/upload/user_3/images/2556/Oct/H/04/46603173.jpg)
+
 @snapend
 
 @snap[south-west span-30 text-06 fragment]
