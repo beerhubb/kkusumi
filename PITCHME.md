@@ -198,7 +198,7 @@
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
 
-#### Syntax
+#### @color[orange]Syntax
 
                 ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
