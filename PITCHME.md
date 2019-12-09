@@ -17,7 +17,7 @@
 
 ## @color[orange](เริ่มเขียนMarkdown)
 
----?color=linear-gradient(90deg, #003366 50%, #E8E8E8 50%)
+---?color=linear-gradient(80deg, #003366 50%, #E8E8E8 50%)
 
 @snap[west span-40 text-center]
 
