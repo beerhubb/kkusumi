@@ -97,17 +97,11 @@
 
 ### @color[orange](**ลิสต์ list**)
 
-####
+#### มีทังหมด 2 แบบประกอบด้วย
 
-มีทังหมด 2 แบบประกอบด้วย
+#### 1.ลิสต์แบบเรียงลำดับ (Ordered List)
 
-####
-
-1.ลิสต์แบบเรียงลำดับ (Ordered List)
-
-####
-
-2.ลิสต์แบบไม่เรียงลำดับ (Unordered List)
+#### 2.ลิสต์แบบไม่เรียงลำดับ (Unordered List)
 
 @snapend
 ---?color=linear-gradient(80deg, white 50%, black 50%)
