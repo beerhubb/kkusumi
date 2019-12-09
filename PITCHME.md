@@ -78,9 +78,12 @@
 
 @snapend
 
-@snap[east span-30 text-08]
+@snap[north-east span-50]
 
 ## ผลลัพ์ที่ได้
+@snapend
+
+@snap[east span-30 text-08]
 
 @box[bg-green](**สวัสดี**)
 @box[bg-pink](_สวัสดี_)
