@@ -136,7 +136,7 @@
 
 @snap[north-east snap-50]
 
-### **Syntax**
+### **ผลลัพธ์**
 
 @snapend
 
@@ -156,7 +156,7 @@
 
 @snap[north-west span-50]
 
-### @color[black](**ลิสต์แบบไม่เรียงลำดับ**)
+#### @color[black](**ลิสต์แบบไม่เรียงลำดับ**)
 
 @snapend
 
@@ -164,16 +164,14 @@
 
 #### @color[black](**Syntax**)
 
-@color[black](- สวัสดี)
-
-####
+#### @color[black](- สวัสดี)
 
 @color[black](\* สวัสดี)
 
 @snapend
 
 @snap[south-east span-50]
-![](https://sv1.picz.in.th/images/2019/12/05/iZFYCE.jpg)
+
 @snapend
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
