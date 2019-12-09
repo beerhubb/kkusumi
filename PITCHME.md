@@ -19,7 +19,7 @@
 
 ---?color=linear-gradient(80deg, #003366 50%, #E8E8E8 50%)
 
-@snap[west span-40 text-center]
+@snap[north-west span-40 text-center]
 
 @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
 
@@ -41,7 +41,7 @@
 
 @snap[north-east span-60 text-08]
 
-## @color[](ผลลัพธ์)
+## 
 
 # @color[black](หัวเรื่อง 1)
 
