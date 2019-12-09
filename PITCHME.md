@@ -59,9 +59,13 @@
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
 
-@snap[west span-50]
+@snap[north-west span-50]
 
 ### @color[black](**รูปแบบอักษรประกอบไปด้วย**)
+
+@snapend
+
+@snap[west span-50]
 
 ```php
         ตัวเอียง     _ตัวเอียง_
