@@ -21,7 +21,7 @@
 
 @snap[north-west span-40 text-center]
 
-@color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
+## @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
 
 ```php
         # (หัวเรื่อง 1)
@@ -80,7 +80,7 @@
 
 @snap[north-east span-50]
 
-## ผลลัพ์ที่ได้
+### ผลลัพ์ที่ได้
 
 @snapend
 
@@ -116,11 +116,11 @@
 
 ### @color[black](**ลิสต์แบบเรียงลำดับ**)
 
-#### @color[black](**Syntax**)
-
 @snapend
 
 @snap[west span-50]
+
+#### @color[black](**Syntax**)
 
 ```php
 ### 1. สวัสดี
@@ -199,7 +199,7 @@
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
 
-        ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
+                ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
 **@color[orange](เเสดงผล)**
 
