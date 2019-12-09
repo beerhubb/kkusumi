@@ -10,7 +10,7 @@
 ![IMAGE](http://popcornfor2.com/upload/user_3/images/2556/Oct/H/04/46603173.jpg)
 @size[0.7em](**แกเบรียล  แวน เฮลซิง**)
 #### 
-#### อาวุธที่ใช้ตี
+#### อาวุธที่ใช้ตีปั้งๆ
 
 @snapend
 
