@@ -93,7 +93,7 @@
 
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 
-@span[north span-50]
+@spap[north span-50]
 
 ### @color[orange](**ลิสต์ list**)
 
