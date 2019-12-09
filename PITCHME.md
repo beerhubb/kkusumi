@@ -93,9 +93,13 @@
 
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
 
-@snap[ span-50]
+@span[north span-50]
 
 ### @color[orange](**ลิสต์ list**)
+
+@snapend
+
+@snap[midpoint span-50]
 
 #### มีทังหมด 2 แบบประกอบด้วย
 
@@ -104,6 +108,7 @@
 #### 2.ลิสต์แบบไม่เรียงลำดับ (Unordered List)
 
 @snapend
+
 ---?color=linear-gradient(80deg, white 50%, black 50%)
 
 @snap[north-west span-50]
