@@ -210,4 +210,4 @@
 
 **@color[orange](ผลลัพธ์)**
 
-@box[bg-gold]([Leanpub])(https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
+@box[bg-gold]([Leanpub](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true))
