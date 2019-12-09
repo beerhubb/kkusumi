@@ -79,6 +79,9 @@
 @snapend
 
 @snap[east span-30 text-08]
+
+## ผลลัพ์ที่ได้
+
 @box[bg-green](**สวัสดี**)
 @box[bg-pink](_สวัสดี_)
 @box[bg-gold](~~สวัสดี~~)
