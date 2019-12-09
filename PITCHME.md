@@ -164,25 +164,28 @@
 
 #### @color[black](**Syntax**)
 
-        #### @color[black](- สวัสดี)
+       - สวัสดี
 
-        #### @color[black](* สวัสดี)
+       * สวัสดี
 
-        #### @color[black](+ สวัสดี)
+       + สวัสดี
 
-        #### @color[black](* สวัสดี)
+       * สวัสดี
 
 @snapend
 
 @snap[south-east span-50]
 
-#### @color[black](- สวัสดี)
+### ผลลัพธ์
 
-#### @color[black](* สวัสดี)
+ - สวัสดี
 
-#### @color[black](+ สวัสดี)
+ * สวัสดี
 
-#### @color[black](* สวัสดี)
+ + สวัสดี
+
+ * สวัสดี
+
 @snapend
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
