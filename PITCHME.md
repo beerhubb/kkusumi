@@ -81,6 +81,7 @@
 @snap[north-east span-50]
 
 ## ผลลัพ์ที่ได้
+
 @snapend
 
 @snap[east span-30 text-08]
@@ -111,7 +112,7 @@
 
 ---?color=linear-gradient(100deg, white 50%, black 50%)
 
-@snap[north-west span-50]
+@snap[north-west span-100]
 
 ### @color[black](**ลิสต์แบบเรียงลำดับ**)
 
@@ -119,7 +120,25 @@
 
 @snap[west span-50]
 
-#### @color[black](**Syntax**)  
+        #### @color[black](**Syntax**)
+
+        #### @color[black](*. สวัสดี)
+
+        #### @color[black](-. ฉัน)
+
+        #### @color[black](+. ชื่อ)
+
+        #### @color[black](1. อะไร)
+
+@snapend
+
+@snap[north-east snap-50]
+
+#### @color[black](**Syntax**)
+
+@snapend
+
+@snap[east span-50]
 
 #### @color[black](*. สวัสดี)
 
@@ -128,11 +147,7 @@
 #### @color[black](+. ชื่อ)
 
 #### @color[black](1. อะไร)
-@snapend
 
-@snap[east span-50]
-
-![](https://sv1.picz.in.th/images/2019/12/05/iZFSgv.jpg)
 @snapend
 
 ---?color=linear-gradient(90deg, white 50%, black 50%)
