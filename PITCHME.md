@@ -61,11 +61,11 @@
 
 @snap[north-west span-50]
 
-### @color[black](**รูปแบบอักษรประกอบไปด้วย**)
-
 @snapend
 
 @snap[west span-50]
+
+### @color[black](**รูปแบบอักษรประกอบไปด้วย**)
 
 ```php
         ตัวเอียง     _ตัวเอียง_
