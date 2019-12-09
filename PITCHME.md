@@ -201,20 +201,13 @@
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
 
-@snap[north snap-50]
-
 ## @color[orange](ใส่ link ใน Markdown)
-
-@snapend
-
-@snap[midpoint snap-50]
-
+### 
+### 
 #### @color[orange](Syntax)
 
-    [Leanpub  ](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
+    [Leanpub](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
 
 **@color[orange](ผลลัพธ์)**
 
 ### [Leanpub ](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
-
-@snapend
