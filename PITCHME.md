@@ -156,7 +156,7 @@
 
 @snap[north-west span-50]
 
-#### @color[black](**ลิสต์แบบไม่เรียงลำดับ**)
+### @color[black](**ลิสต์แบบไม่เรียงลำดับ**)
 
 @snapend
 
@@ -176,17 +176,22 @@
 
 @snapend
 
-@snap[north-east span-50]
+@snap[north-east span-100]
 
 ### ผลลัพธ์
 
- - สวัสดี
+@snapend
 
- * สวัสดี
+@snap[east span-100]
 
- + สวัสดี
 
- * สวัสดี
+- สวัสดี
+
+* สวัสดี
+
++ สวัสดี
+
+* สวัสดี
 
 @snapend
 
