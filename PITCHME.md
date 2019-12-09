@@ -201,7 +201,7 @@
 
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----?color=linear-gradient(180deg, #2c3e50 55%, white 55%)
+---?color=linear-gradient(180deg, #2c3e50 59%, white 59%)
 
 ## @color[orange](ใส่ link ใน Markdown)
 #### @color[orange](Syntax)
@@ -210,4 +210,4 @@
 
 **@color[orange](ผลลัพธ์)**
 
-@box[bg-gold]([@color[white]@size[2em]((Leanpub))](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true))
+@box[bg-gold]([@color[white]@size[2em](Leanpub)](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true))
