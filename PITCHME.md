@@ -21,8 +21,6 @@
 
 @snap[west span-40 text-center]
 
-## @color[white](หัวเรื่อง)
-
 @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
 
 ```php
@@ -43,7 +41,7 @@
 
 @snap[north-east span-60 text-08]
 
-## @color[yellow](ผลลัพธ์)
+## @color[](ผลลัพธ์)
 
 # @color[black](หัวเรื่อง 1)
 
