@@ -23,8 +23,6 @@
 
 @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
 
-# 
-
 ```php
         # (หัวเรื่อง 1)
 
@@ -69,25 +67,19 @@
 
 @snap[west span-50]
 
-```
+```c#
         ตัวเอียง     _ตัวเอียง_
         ตัวหนา     **ตัวหนา**
         ขีดฆ่า       ~~ขีดฆ่า~~
-
 ```
 
 @snapend
 
-@snap[east span-30 text-08]
-@box[bg-green](**สวัสดี**)
-@snapend
-
 @snap[north-east span-30 text-08]
+@box[bg-green](**สวัสดี**)
 @box[bg-pink](_สวัสดี_)
-@snapend
-
-@snap[south-east span-30 text-08]
 @box[bg-gold](~~สวัสดี~~)
+
 @snapend
 
 ---?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
