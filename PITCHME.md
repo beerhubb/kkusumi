@@ -199,9 +199,7 @@
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
 
-**@color[orange](โค้ต)**
-
-    ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
+        ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
 **@color[orange](เเสดงผล)**
 
