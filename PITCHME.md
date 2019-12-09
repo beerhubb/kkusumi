@@ -109,7 +109,7 @@
 
 @snapend
 
----?color=linear-gradient(80deg, white 50%, black 50%)
+---?color=linear-gradient(100deg, white 50%, black 50%)
 
 @snap[north-west span-50]
 
@@ -119,21 +119,15 @@
 
 @snap[west span-50]
 
-#### @color[black](**Syntax**)
+#### @color[black](**Syntax**)  
 
-@color[black](1. สวัสดี)
+#### @color[black](*. สวัสดี)
 
-####
+#### @color[black](-. ฉัน)
 
-@color[black](2. ฉัน)
+#### @color[black](+. ชื่อ)
 
-####
-
-@color[black](3. ชื่อ)
-
-####
-
-@color[black](4. อะไร)
+#### @color[black](1. อะไร)
 @snapend
 
 @snap[east span-50]
