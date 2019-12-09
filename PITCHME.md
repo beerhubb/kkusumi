@@ -201,10 +201,10 @@
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
 ## @color[orange](ใส่ link ใน Markdown)
-@color[orange](Syntax)
+#### @color[orange](Syntax)
 
     [Leanpub  ](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
 
-@color[orange](ผลลัพธ์)
+**@color[orange](ผลลัพธ์)**
 
 ### [Leanpub ](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
