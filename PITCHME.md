@@ -184,20 +184,21 @@
 
 @snap[east span-100]
 
+- สวัสดี
 
 - สวัสดี
-#### 
-* สวัสดี
-#### 
-+ สวัสดี
-#### 
-* สวัสดี 
-#### 
+
+- สวัสดี
+
+- สวัสดี
+
 @snapend
 
 ---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
+
+#### Syntax
 
                 ![Google ](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
