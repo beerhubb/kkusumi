@@ -43,7 +43,7 @@
 
 @snap[north-east span-60 text-08]
 
-## @color[black](ผลลัพธ์ที่ได้)
+## @color[black](**ผลลัพธ์ที่ได้**)
 
 # @color[black](หัวเรื่อง 1)
 
