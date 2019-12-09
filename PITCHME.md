@@ -207,6 +207,8 @@
 
 @snapend
 
+@snap[midpoint snap-50]
+
 #### @color[orange](Syntax)
 
     [Leanpub  ](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
@@ -214,3 +216,5 @@
 **@color[orange](ผลลัพธ์)**
 
 ### [Leanpub ](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
+
+@snapend
