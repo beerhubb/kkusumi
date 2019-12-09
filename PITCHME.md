@@ -120,15 +120,17 @@
 
 @snap[west span-50]
 
+```php
         #### @color[black](**Syntax**)
 
-        #### @color[black](*. สวัสดี)
+        #### @color[black](1. สวัสดี)
 
-        #### @color[black](-. ฉัน)
+        #### @color[black](1. ฉัน)
 
-        #### @color[black](+. ชื่อ)
+        #### @color[black](1. ชื่อ)
 
         #### @color[black](1. อะไร)
+```
 
 @snapend
 
@@ -140,11 +142,11 @@
 
 @snap[east span-50]
 
-#### @color[black](*. สวัสดี)
+#### @color[black](1. สวัสดี)
 
-#### @color[black](-. ฉัน)
+#### @color[black](1. ฉัน)
 
-#### @color[black](+. ชื่อ)
+#### @color[black](1. ชื่อ)
 
 #### @color[black](1. อะไร)
 
