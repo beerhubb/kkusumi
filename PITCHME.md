@@ -67,7 +67,7 @@
 
 @snap[west span-50]
 
-```c#
+```php
         ตัวเอียง     _ตัวเอียง_
         ตัวหนา     **ตัวหนา**
         ขีดฆ่า       ~~ขีดฆ่า~~
@@ -75,7 +75,7 @@
 
 @snapend
 
-@snap[north-east span-30 text-08]
+@snap[east span-30 text-08]
 @box[bg-green](**สวัสดี**)
 @box[bg-pink](_สวัสดี_)
 @box[bg-gold](~~สวัสดี~~)
