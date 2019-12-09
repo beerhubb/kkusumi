@@ -200,3 +200,14 @@
 **@color[orange](ผลลัพธ์)**
 
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
+
+## @color[orange](ใส่ link ใน Markdown)
+#### @color[orange](Syntax)
+
+    [Leanpub](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
+
+**@color[orange](ผลลัพธ์)**
+
+### [Leanpub ](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
