@@ -164,6 +164,7 @@
 
 #### @color[black](**Syntax**)
 
+```php
        - สวัสดี
 
        * สวัสดี
@@ -171,10 +172,11 @@
        + สวัสดี
 
        * สวัสดี
+```
 
 @snapend
 
-@snap[south-east span-50]
+@snap[north-east span-50]
 
 ### ผลลัพธ์
 
