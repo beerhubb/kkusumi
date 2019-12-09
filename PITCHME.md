@@ -116,27 +116,27 @@
 
 ### @color[black](**ลิสต์แบบเรียงลำดับ**)
 
+#### **Syntax**
+
 @snapend
 
 @snap[west span-50]
 
-#### **Syntax**
-
 ```php
-        ### 1. สวัสดี
+### 1. สวัสดี
 
-        #### 1. ฉัน
+#### 1. ฉัน
 
-        #### 1. ชื่อ
+#### 1. ชื่อ
 
-        #### 1. อะไร
+#### 1. อะไร
 ```
 
 @snapend
 
 @snap[north-east snap-50]
 
-#### (**Syntax**)
+#### **Syntax**
 
 @snapend
 
