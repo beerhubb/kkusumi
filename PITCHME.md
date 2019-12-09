@@ -182,7 +182,7 @@
 
 @snapend
 
-@snap[east span-30]
+@snap[east span-10]
 
 - สวัสดี
 
