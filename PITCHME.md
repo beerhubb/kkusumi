@@ -169,7 +169,7 @@
 
 @snapend
 
-@snap[east]
+@snap[east span-50]
 
 - สวัสดี  
 
