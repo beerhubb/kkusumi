@@ -41,19 +41,16 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 @snap[north-east span-60 text-08]
 
 ### @color[orange](**ผลลัพธ์**)
-@snapend
 
-@snap[north-east span-60 text-silver]
+## @color[silver](หัวเรื่อง 2)
 
-## @color[black](หัวเรื่อง 2)
+### @color[silver](หัวเรื่อง 3)
 
-### @color[black](หัวเรื่อง 3)
+#### @color[silver](หัวเรื่อง 4)
 
-#### @color[black](หัวเรื่อง 4)
+##### @color[silver](หัวเรื่อง 5)
 
-##### @color[black](หัวเรื่อง 5)
-
-###### @color[black](หัวเรื่อง 6)
+###### @color[silver](หัวเรื่อง 6)
 
 @snapend
 
