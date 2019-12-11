@@ -70,13 +70,13 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 @snapend
 
-@snap[north-east span-50 text-08]
+@snap[north-east span-50 text-center text-08]
 
 ## @color[orange](**ผลลัพธ์**)
 
-@box[bg-black](**@color[silver](สวัสดี)**)
-@box[bg-black](_@color[silver](สวัสดี)_)
-@box[bg-black](~~@color[silver](สวัสดี)~~)
+**@color[silver](สวัสดี)**
+_@color[silver](สวัสดี)_
+~~@color[silver](สวัสดี)~~
 
 @snapend
 
