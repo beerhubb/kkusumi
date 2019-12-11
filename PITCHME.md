@@ -83,31 +83,30 @@ _@color[silver](สวัสดี)_
 ---?image=audience.png
 
 @snap[north-west span-50 text-center]
-### @color[black](**ลิสต์แบบเรียงลำดับ**)
-#### @color[black](Syntax)
+### @color[orange](**ลิสต์แบบเรียงลำดับ**)
 
 ```php
        1. สวัสดี
 
-       1. ฉัน
+       1. สวัสดี
 
-       1. ชื่อ
+       1. สวัสดี
 
-       1. อะไร
+       1. สวัสดี
 ```
 
 @snapend
 
-@snap[north-east span-50 text-08]
-### **ผลลัพธ์**
+@@snap[north-east span-50 text-center text-08]
+## @color[orange](**ผลลัพธ์**)
 
-1. สวัสดี
+1. สวัสดี  
 #### 
-2. ฉัน
+2. สวัสดี  
 #### 
-3. ชื่อ
+3. สวัสดี  
 #### 
-4. อะไร
+4. สวัสดี  
 @snapend
 
 ---?image=audience.png)
