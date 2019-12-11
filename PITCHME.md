@@ -82,7 +82,7 @@ _@color[silver](สวัสดี)_
 
 ---?image=audience.png
 
-@snap[north-west span-60 text-center]
+@snap[north-west span-50 text-center]
 ### @color[orange](**แบบเรียงลำดับ**)
 
 ```php
@@ -101,7 +101,7 @@ _@color[silver](สวัสดี)_
 
 @snapend
 
-@@snap[north-east span-50 text-center text-08]
+@snap[north-east span-50 text-center text-08]
 ## @color[orange](**ผลลัพธ์**)
 
 1. สวัสดี  
@@ -117,33 +117,23 @@ _@color[silver](สวัสดี)_
 
 @snap[north-west span-50 text-center]
 
-### @color[black](**ลิสต์แบบไม่เรียงลำดับ**)
-
-@snapend
-
-@snap[west- span-50]
-
-#### @color[black](Syntax)
+### @color[orange](**แบบไม่เรียงลำดับ**)  
 
 ```php
-       - สวัสดี
+       - สวัสดี  
 
-       * สวัสดี
+       * สวัสดี  
 
-       + สวัสดี
+       + สวัสดี  
 
-       * สวัสดี
+       * สวัสดี  
+
 ```
-
 @snapend
 
-@snap[north-east span-100]
+@snap[north-east span-50 text-center text-08]
 
-### ผลลัพธ์
-
-@snapend
-
-@snap[east span-50]
+## @color[orange](ผลลัพธ์)  
 
 - สวัสดี  
 
