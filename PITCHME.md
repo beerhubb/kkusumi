@@ -40,7 +40,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 @snap[north-east span-50 text-08]
 
-### @color[orange](**ผลลัพธ์**)
+## @color[orange](**ผลลัพธ์**)
 
 ## @color[silver](หัวเรื่อง 2)
 
@@ -57,8 +57,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 ---?image=audience.png
 
 @snap[north-west span-50 text-center]
-### @color[black](**รูปแบบอักษรประกอบไปด้วย**)
-#### @color[black](Syntax)
+### @color[orange](**รูปแบบตัวอักษร**)
 
 ```php
         ตัวเอียง     _ตัวเอียง_
@@ -73,15 +72,15 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 @snap[north-east span-50]
 
-### ผลลัพธ์
+## @color[orange](**ผลลัพธ์**)
 
 @snapend
 
 @snap[east span-30 text-08]
 
-@box[bg-white](**@color[black](สวัสดี)**)
-@box[bg-white](_@color[black](สวัสดี)_)
-@box[bg-white](~~@color[black](สวัสดี)~~)
+@box[bg-white](**@color[silver](สวัสดี)**)
+@box[bg-white](_@color[silver](สวัสดี)_)
+@box[bg-white](~~@color[silver](สวัสดี)~~)
 
 @snapend
 
