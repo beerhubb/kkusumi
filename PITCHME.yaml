@@ -1,3 +1,7 @@
+theme : simple
+
+theme-override: PITCHME.css
+
 # Layout
 layout : center
 
@@ -15,4 +19,3 @@ published : true
 charts : true
 mathjax : TeX-AMS_HTML-full
 
-# image
