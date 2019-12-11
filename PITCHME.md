@@ -82,7 +82,7 @@ _@color[silver](สวัสดี)_
 
 ---?image=audience.png
 
-## @color[orange](**การใช้ลิสด์มี 2 แบบ**)
+### @color[orange](**การใช้ลิสด์มี 2 แบบ**)
 
 ---?image=audience.png
 
@@ -142,17 +142,17 @@ _@color[silver](สวัสดี)_
 
 ## @color[orange](ผลลัพธ์)  
 
-- สวัสดี  
+● สวัสดี  
 #### 
-* สวัสดี  
+● สวัสดี  
 #### 
-+ สวัสดี  
+● สวัสดี  
 #### 
-* สวัสดี  
+● สวัสดี  
 ####  
 @snapend
 
----?image=audience.png
+---?image=audience.png 
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
 
@@ -167,8 +167,6 @@ _@color[silver](สวัสดี)_
 ---?image=audience.png
 
 ## @color[orange](ใส่ Video ใน Markdown)
-
-#### @color[orange](Syntax)
 
             ![Video](https://youtu.be/KmW0iSGlCgQ)
 **@color[orange](ผลลัพธ์)**
