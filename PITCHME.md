@@ -76,7 +76,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 @snapend
 
-@snap[east span-30 text-08]
+@snap[east span-50 text-08]
 
 @box[bg-black](**@color[silver](สวัสดี)**)
 @box[bg-black](_@color[silver](สวัสดี)_)
