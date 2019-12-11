@@ -8,7 +8,7 @@
 
 @snapend
 
-@snap[text-pink]
+@snap[text-silver]
 Markdown คือ ภาษาคอมพิวเตอร์ ที่มนุษย์สามารถอ่านเข้าใจได้ง่าย
 และด้วยความง่ายนี้มันก็สามารถแปลงกลับมาเป็นภาษาอื่นๆได้ง่ายด้วยกันเช่น HTML, XHTML และด้วยความง่ายเช่นนี้จึงมีเจ้าอื่นนำไป Customizeให้เป็นของตัวเองเช่น github ก็อาจจะเพิ่มพวก feature เข้าไปเช่น task list, mention และอื่นๆ
 @snapend
@@ -19,9 +19,8 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 ---?image=audience.png
 
-@snap[north-west span-40 text-center]
-### @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
-#### @color[white](Syntax)
+@snap[north-west span-50 text-center text-orange]
+### การเขียนหัวเรื่อง
 
 ```php
         # (หัวเรื่อง 1)
