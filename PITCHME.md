@@ -82,6 +82,10 @@ _@color[silver](สวัสดี)_
 
 ---?image=audience.png
 
+## @color[orange](**การใช้ลิสด์มี 2 แบบ**)
+
+---?image=audience.png
+
 @snap[north-west span-50 text-center]
 ### @color[orange](**แบบเรียงลำดับ**)
 
@@ -145,7 +149,7 @@ _@color[silver](สวัสดี)_
 + สวัสดี  
 #### 
 * สวัสดี  
-  
+####  
 @snapend
 
 ---?image=audience.png
