@@ -74,9 +74,9 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 ## @color[orange](**ผลลัพธ์**)
 
-**@color[silver](สวัสดี)**
-_@color[silver](สวัสดี)_
-~~@color[silver](สวัสดี)~~
+**@color[silver](สวัสดี)**  
+_@color[silver](สวัสดี)_  
+~~@color[silver](สวัสดี)~~  
 
 @snapend
 
