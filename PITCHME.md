@@ -32,6 +32,8 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
         ##### (หัวเรื่อง 5)
 
         ###### (หัวเรื่อง 6)
+
+
 ```
 
 @snapend
@@ -39,6 +41,9 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 @snap[north-east span-60 text-08]
 
 ### @color[orange](**ผลลัพธ์**)
+@snapend
+
+@snap[north-east span-60 text-silver]
 
 ## @color[black](หัวเรื่อง 2)
 
