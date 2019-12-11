@@ -19,7 +19,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 ---?image=audience.png
 
-@snap[north-west span-50 text-center text-orange]
+@snap[north-west span-50 text-orange]
 ### การเขียนหัวเรื่อง
 
 ```php
