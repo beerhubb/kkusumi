@@ -20,11 +20,9 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 ---?image=audience.png
 
 @snap[north-west span-50 text-center]
-### @color[orange](การเขียนหัวเรื่อง)  
+### @color[orange](**การเขียนหัวเรื่อง**)  
 
 ```php
-        # (หัวเรื่อง 1)
-
         ## (หัวเรื่อง 2)
 
         ### (หัวเรื่อง 3)
@@ -40,9 +38,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 @snap[north-east span-60 text-08]
 
-## @color[black](**ผลลัพธ์**)
-
-# @color[black](หัวเรื่อง 1)
+### @color[orange](**ผลลัพธ์**)
 
 ## @color[black](หัวเรื่อง 2)
 
