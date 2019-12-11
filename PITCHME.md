@@ -38,7 +38,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 @snapend
 
-@snap[north-east span-60 text-08]
+@snap[north-east span-50 text-08]
 
 ### @color[orange](**ผลลัพธ์**)
 
