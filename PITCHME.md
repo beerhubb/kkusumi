@@ -123,7 +123,7 @@ _@color[silver](สวัสดี)_
 4. สวัสดี  
 @snapend
 
----?image=audience.png)
+---?image=audience.png
 
 @snap[north-west span-50 text-center]
 
@@ -131,7 +131,7 @@ _@color[silver](สวัสดี)_
 
 ```php
   
-  
+
        - สวัสดี  
 
 
@@ -143,7 +143,7 @@ _@color[silver](สวัสดี)_
 
        * สวัสดี  
   
-
+  
 ```
 @snapend
 
