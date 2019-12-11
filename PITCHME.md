@@ -82,7 +82,7 @@ _@color[silver](สวัสดี)_
 
 ---?image=audience.png
 
-@snap[north-west span-50 text-center]
+@snap[north-west span-70 text-center]
 ### @color[orange](**ลิสต์แบบเรียงลำดับ**)
 
 ```php
