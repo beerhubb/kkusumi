@@ -82,17 +82,17 @@ _@color[silver](สวัสดี)_
 
 ---?image=audience.png
 
-@snap[north-west span-70 text-center]
-### @color[orange](**ลิสต์แบบเรียงลำดับ**)
+@snap[north-west span-60 text-center]
+### @color[orange](**แบบเรียงลำดับ**)
 
 ```php
-       1. สวัสดี
+       1. สวัสดี  
 
-       1. สวัสดี
+       1. สวัสดี  
 
-       1. สวัสดี
+       1. สวัสดี  
 
-       1. สวัสดี
+       1. สวัสดี  
 ```
 
 @snapend
