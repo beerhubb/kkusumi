@@ -1,7 +1,7 @@
----?color=linear-gradient(to top left, #bdc3c7, #2c3e50)
+---?image=audience.png
 # @color[orange](**Markdown**)
 
----?color=linear-gradient(180deg, #003366 25%, white 25%)
+---?image=audience.png
 @snap[north]
 
 ## @color[orange](Markdown)
@@ -15,7 +15,7 @@
 
 ## @color[orange](เริ่มเขียน Markdown)
 
----?color=linear-gradient(80deg, #003366 50%, #E8E8E8 50%)
+---?image=audience.png
 
 @snap[north-west span-40 text-center]
 ### @color[white](การเขียนหัวเรื่องในขนาดต่างๆ)
@@ -55,7 +55,7 @@
 
 @snapend
 
----?color=linear-gradient(90deg, white 50%, black 50%)
+---?image=audience.png
 
 @snap[north-west span-50 text-center]
 ### @color[black](**รูปแบบอักษรประกอบไปด้วย**)
@@ -86,7 +86,7 @@
 
 @snapend
 
----?color=linear-gradient(90deg, white 50%, black 50%)
+---?image=audience.png
 
 @snap[north-west span-50 text-center]
 ### @color[black](**ลิสต์แบบเรียงลำดับ**)
@@ -121,7 +121,7 @@
 4. อะไร
 @snapend
 
----?color=linear-gradient(90deg, white 50%, black 50%)
+---?image=audience.png)
 
 @snap[north-west span-50 text-center]
 
@@ -163,7 +163,7 @@
 
 @snapend
 
----?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
+---?image=audience.png
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
 
@@ -175,7 +175,7 @@
 
 ### ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
----?color=linear-gradient(180deg, #2c3e50 52%, white 52%)
+---?image=audience.png
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
@@ -186,7 +186,7 @@
 
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----?color=linear-gradient(180deg, #2c3e50 59%, white 59%)
+---?image=audience.png 
 
 ## @color[orange](ใส่ link ใน Markdown)
 #### @color[orange](Syntax)
