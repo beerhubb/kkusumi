@@ -179,4 +179,4 @@ _@color[silver](สวัสดี)_
 
 **@color[orange](ผลลัพธ์)**
 
-[LEANPUB](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
+[**LEANPUB**](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
