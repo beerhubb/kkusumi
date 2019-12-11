@@ -156,8 +156,6 @@ _@color[silver](สวัสดี)_
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
 
-#### @color[orange](Syntax)
-
             ![Google](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
 **@color[orange](ผลลัพธ์)**
@@ -176,10 +174,9 @@ _@color[silver](สวัสดี)_
 ---?image=audience.png 
 
 ## @color[orange](ใส่ link ใน Markdown)
-#### @color[orange](Syntax)
 
     [Leanpub](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
 
 **@color[orange](ผลลัพธ์)**
 
-@box[bg-gold]([@size[2em](@color[black](Leanpub))](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true))
+[LEANPUB](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
