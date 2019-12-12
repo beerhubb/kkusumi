@@ -18,6 +18,50 @@
 @snapend
 
 ---?image=audience.png
+@snap[north span-50 text-center]
+## @color[orange](ทำไมต้องใช้ **Markdown**?)
+
+@snapend
+
+@snap[west span-55 text-center]
+@ul[list-square-bullets striped-list-items](false)
+
+```md
+
+        # หัวเรื่อง 1
+  
+        ## หัวเรื่อง 2
+
+        ### หัวเรื่อง 3
+
+        #### หัวเรื่อง 4
+
+        ##### หัวเรื่อง 5
+
+        ###### หัวเรื่อง 6
+
+```
+@snapend
+@snap[east span-55 text-center]
+@ul[list-square-bullets striped-list-items](false)
+
+```md
+
+        # หัวเรื่อง 1
+  
+        ## หัวเรื่อง 2
+
+        ### หัวเรื่อง 3
+
+        #### หัวเรื่อง 4
+
+        ##### หัวเรื่อง 5
+
+        ###### หัวเรื่อง 6
+
+```
+@snapend
+---?image=audience.png
 
 @snap[west span-45 text-center]
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
