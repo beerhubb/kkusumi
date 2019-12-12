@@ -23,6 +23,7 @@
 @snapend
 @snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
+#### HTML  
 
 ```html
 
@@ -39,6 +40,7 @@
 
 @snap[south-east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
+#### Markdown  
 
 ```md
 
