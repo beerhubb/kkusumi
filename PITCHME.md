@@ -121,19 +121,19 @@
 @snapend
 
 @snap[west span-30 text-10 fragment]
-@box[bg-orange](`_ตัวเอียง_`)
+@box[bg-black](`_ตัวเอียง_`)
 @snapend
 
 @snap[east span-30 text-10 fragment]
-@box[bg-orange](_ตัวเอียง_)
+@box[bg-black](_ตัวเอียง_)
 @snapend
 
 @snap[south-west span-30 text-10 fragment]
-@box[bg-orange](`**ตัวหนา**`)
+@box[bg-black](`**ตัวหนา**`)
 @snapend
 
 @snap[south-east span-30 text-10 fragment]
-@box[bg-orange](**ตัวหนา**)
+@box[bg-black](**ตัวหนา**)
 @snapend
 
 ---?image=audience.png
