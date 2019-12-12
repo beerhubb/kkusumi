@@ -3,7 +3,9 @@
 
 ---?image=audience.png
 
+@snap[north span-50 text-center]
 ## @color[orange](ทำไมต้องใช้ **Markdown**?)
+@snapend
 
 @snap[south-west span-30 text-06 fragment]
 @box[rounded text-white box-graphql](Step 1.#Describe your data.)
@@ -45,14 +47,16 @@
 @ulend
 @snapend
 
----
+---?image=audience.png
 
 @snap[west span-45 text-center]
-## @color[orange](**ผลลัพธ์**) 
+### @color[orange](**ผลลัพธ์**) 
 @snapend
 
 @snap[east span-55 text-center]
 @ul[list-square-bullets striped-list-items](false)
+
+# @color[silver](หัวเรื่อง 1)
 
 ## @color[silver](หัวเรื่อง 2)
 
