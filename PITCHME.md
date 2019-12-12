@@ -93,7 +93,7 @@
 @ulend
 @snapend
 
-+++
++++?image=audience.png
 
 @snap[west span-45 text-center]
 ## @color[orange](**ผลลัพธ์**) 
@@ -156,14 +156,18 @@
   
 
        1. แมว
+```
   
-
+```md
        1. หมา
 
+```
 
+```md
        1. หมู
+```
 
-  
+```md
        1. ไก่
   
 ```
