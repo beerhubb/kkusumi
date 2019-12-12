@@ -22,6 +22,8 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 @snap[north-west span-50 text-center]
 ### @color[orange](**การเขียนหัวเรื่อง**)  
 
+@snap[text-orange]
+
 ```md
   
         ## หัวเรื่อง 2
@@ -36,6 +38,8 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 
 ```
+
+@snapend
 
 @snapend
 
