@@ -67,7 +67,7 @@
 
 ---?image=audience.png
 
-@snap[north-west span-50]
+@snap[north-west span-50 text-center-left]
 ### @color[orange](**รูปแบบตัวอักษร**)
 
 ```md
