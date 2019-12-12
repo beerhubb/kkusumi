@@ -106,7 +106,7 @@
 
 ---?image=audience.png
 
-@snap[north-west span-50 text-center]
+@snap[north-west span-50 text-left]
 ### @color[orange](**รูปแบบตัวอักษร**)
 
 @snapend
