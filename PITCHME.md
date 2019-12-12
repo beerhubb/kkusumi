@@ -34,7 +34,10 @@
 @snapend  
 
 +++?image=audience.png
+@snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
+
+@snapend
 
 @snap[west span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)  
