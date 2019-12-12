@@ -14,13 +14,11 @@
 @snap[west span-40 text-center text-1.5]
 @ul[list-square-bullets striped-list-items](false)
 
-        <h1> Hello </h1>
- <h2> Hi </h2>
- <ul>
-   <li>Apple</li>
-   <li>Banana</li>
-   <li>Orange</li>
- </ul>
+# Hello
+## Hi
+ * Apple
+ * Banana
+ * Orange
 
 @snapend
 @snap[midpoint span-40 text-center]
