@@ -88,12 +88,14 @@
 
 ## @color[orange](**ผลลัพธ์**)
 
-_@color[silver](ตัวเอียง)_  
-  
-**@color[silver](ตัวหนา)**  
-  
-~~@color[silver](ขีดฆ่า)~~  
+@snapend
 
+@snap[west span-30 text-06 fragment]
+@box[rounded text-white box-graphql](`_ตัวเอียง_`)
+@snapend
+
+@snap[east span-30 text-06 fragment]
+@box[rounded text-white box-graphql](_ตัวเอียง_)
 @snapend
 
 ---?image=audience.png
