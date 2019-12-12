@@ -2,10 +2,6 @@
 ## @color[orange](**Markdown** คืออะไร?)
 
 ---?image=audience.png
-
-## @color[orange](ทำไมต้องใช้ **Markdown**?)
-
----?image=audience.png
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
@@ -38,6 +34,7 @@
 @snapend  
 
 +++?image=audience.png
+### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
 @snap[west span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)  
