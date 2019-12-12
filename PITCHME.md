@@ -67,7 +67,7 @@
 
 ---?image=audience.png
 
-@snap[north-west span-50 text-center]
+@snap[north-west span-50]
 ### @color[orange](**รูปแบบตัวอักษร**)
 
 ```md
@@ -75,7 +75,7 @@
      ตัวเอียง          _ตัวเอียง_
         
      ตัวหนา           **ตัวหนา**
-       `ขีดฆ่า           ~~ขีดฆ่า~~`
+    `ขีดฆ่า           ~~ขีดฆ่า~~`
 
 ```
 @snapend
