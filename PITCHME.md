@@ -131,12 +131,12 @@
 ## @color[orange](**ผลลัพธ์**)
 @snapend
 
-@snap[west span-30 text-center fragment]
+@snap[west span-30 text-center]
 @box[bg-black](`_ตัวเอียง_`)
 @box[bg-black](`**ตัวหนา**`)
 @snapend
 
-@snap[east span-30 text-10 fragment]
+@snap[east span-30 text-10]
 @box[bg-black](_ตัวเอียง_)
 @box[bg-black](**ตัวหนา**)
 @snapend
