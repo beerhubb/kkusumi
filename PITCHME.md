@@ -47,11 +47,12 @@
 
 ---
 
+@snap[west span-45 text-center]
+## @color[orange](**ผลลัพธ์**) 
 @snapend
 
-@snap[north-east span-50 text-08]
-
-## @color[orange](**ผลลัพธ์**)
+@snap[east span-55 text-center]
+@ul[list-square-bullets striped-list-items](false)
 
 ## @color[silver](หัวเรื่อง 2)
 
@@ -63,6 +64,7 @@
 
 ###### @color[silver](หัวเรื่อง 6)
 
+@ulend
 @snapend
 
 ---?image=audience.png
