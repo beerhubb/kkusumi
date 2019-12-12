@@ -6,10 +6,10 @@
 ## @color[orange](ทำไมต้องใช้ **Markdown**?)
 
 ---?image=audience.png
-@snap[north span-70 text-center]
-## @color[orange](ทำไมต้องใช้ **Markdown**?)
+@snap[north span-90 text-center]
+### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
-@snapend
+@snapend @ol
 
 @snap[west span-55 text-center]
 @ul[list-square-bullets striped-list-items](false)
@@ -48,7 +48,7 @@
         ###### หัวเรื่อง 6
 
 ```
-@snapend
+ @olend @snapend  
 ---?image=audience.png
 
 @snap[west span-45 text-center]
