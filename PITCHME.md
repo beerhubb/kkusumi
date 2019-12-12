@@ -74,14 +74,6 @@
 @snap[north-west span-50 text-center]
 ### @color[orange](**รูปแบบตัวอักษร**)
 
-```md
-
-     ตัวเอียง          _ตัวเอียง_
-        
-     ตัวหนา           **ตัวหนา**
-     `ขีดฆ่า           ~~ขีดฆ่า~~`
-
-```
 @snapend
 
 @snap[north-east span-50 text-center text-08]
