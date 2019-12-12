@@ -23,7 +23,7 @@
  </ul>
 
 @snapend
-@snap[minpoint span-40 text-center]
+@snap[midpoint span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 ```html
