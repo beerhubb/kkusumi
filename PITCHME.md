@@ -1,17 +1,5 @@
 ---?image=audience.png
-# @color[orange](**Markdown**)
-
----?image=audience.png
-@snap[north]
-
-## @color[orange](Markdown)
-
-@snapend
-
-@snap[text-silver]
-Markdown คือ ภาษาคอมพิวเตอร์ ที่มนุษย์สามารถอ่านเข้าใจได้ง่าย
-และด้วยความง่ายนี้มันก็สามารถแปลงกลับมาเป็นภาษาอื่นๆได้ง่ายด้วยกันเช่น HTML, XHTML และด้วยความง่ายเช่นนี้จึงมีเจ้าอื่นนำไป Customizeให้เป็นของตัวเองเช่น github ก็อาจจะเพิ่มพวก feature เข้าไปเช่น task list, mention และอื่นๆ
-@snapend
+# @color[orange](**Markdown** คืออะไร?)
 
 ---?image=audience.png
 
@@ -64,7 +52,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
   
         ตัวเอียง     _ตัวเอียง_
 
-        ตัวหนา     *ตัวหนา*
+        ตัวหนา     **ตัวหนา**
 
         ขีดฆ่า       `~~ขีดฆ่า~~`
 
@@ -78,7 +66,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 
 _@color[silver](ตัวเอียง)_  
   
-*@color[silver](ตัวหนา)*  
+**@color[silver](ตัวหนา)**  
   
 ~~@color[silver](ขีดฆ่า)~~  
 
