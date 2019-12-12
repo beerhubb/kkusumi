@@ -25,7 +25,7 @@
 @ul[list-square-bullets striped-list-items](false) 
 
 ```html
-        HTML
+     HTML
 
        <h1> Hello </h1>
  <h2> Hi </h2>
@@ -42,7 +42,7 @@
 @ul[list-square-bullets striped-list-items](false)  
 
 ```md
-        Markdown
+   `Markdown`
 
 # Hello
 ## Hi
