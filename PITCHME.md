@@ -128,7 +128,7 @@
 @snapend
 
 @snap[north-east span-50 text-center text-08]
-## @color[orange](**ผลลัพธ์**)
+## @color[orange](**    ผลลัพธ์**)
 @snapend
 
 @snap[west span-30 text-center fragment]
@@ -140,10 +140,7 @@
 @box[bg-black](_ตัวเอียง_)
 @box[bg-black](**ตัวหนา**)
 @snapend
-@snap[west-south-west span-30 text-10 fragment]
-@box[bg-black](_ตัวเอียง_)
-@box[bg-black](**ตัวหนา**)
-@snapend
+
 
 
 ---?image=audience.png
