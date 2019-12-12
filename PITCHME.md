@@ -3,9 +3,6 @@
 
 ---?image=audience.png
 
-## @color[orange](ทำไมต้องใช้ **Markdown**?)
-
----?image=audience.png
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
@@ -24,16 +21,19 @@
 
 @snap[west span-40 text-center]
 @ul[list-square-bullets striped-list-items](false) 
+
 ```html
-        HTML
+     HTML
 
        <h1> Hello </h1>
  <h2> Hi </h2>
  <ul>
    <li>Apple</li>
    <li>Banana</li>
-   <li>Orange</li></ul>  
-  
+   <li>Orange</li></ul>
+
+
+
 ```
 @snapend  
 
@@ -43,7 +43,7 @@
 @ul[list-square-bullets striped-list-items](false)  
 
 ```md
-        Markdown
+   `Markdown`
 
 # Hello
 ## Hi
