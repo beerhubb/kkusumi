@@ -243,10 +243,3 @@
 **@color[orange](ผลลัพธ์)**
 
 [**LEANPUB**](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
-
----
-
-| รูปแบบตัวอักษร | ผลลัพธ์ |
-| --------- | ---------- |
-|   `_ตัวเอียง_`   |    _ตัวเอียง_   |
-|   `**ตัวหนา**`   |    **ตัวหนา**   |
