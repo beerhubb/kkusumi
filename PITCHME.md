@@ -11,7 +11,7 @@
 
 @snapend
 
-@snap[west span-55 text-center]
+@snap[west span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 ```้html
@@ -26,32 +26,32 @@
 
 ```
 @snapend
-@snap[minpoint span-55 text-center]
+@snap[minpoint span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 ```html
 
-       `<h1> Hello </h1>
+       <h1> Hello </h1>
  <h2> Hi </h2>
  <ul>
    <li>Apple</li>
    <li>Banana</li>
    <li>Orange</li>
- </ul>`
+ </ul>
 
 ```
 @snapend  
 
-@snap[east span-55 text-center]
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 ```md
 
-# `Hello
+# Hello
 ## Hi
 * Apple
 * Banana
-* Orange`
+* Orange
 
 ```
 @snapend  
