@@ -23,9 +23,8 @@
 @snapend
 @snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false) 
-
 ```html
-     HTML
+        HTML
 
        <h1> Hello </h1>
  <h2> Hi </h2>
@@ -33,8 +32,7 @@
    <li>Apple</li>
    <li>Banana</li>
    <li>Orange</li></ul>  
-   
-
+  
 ```
 @snapend  
 
@@ -42,7 +40,7 @@
 @ul[list-square-bullets striped-list-items](false)  
 
 ```md
-   `Markdown`
+        Markdown
 
 # Hello
 ## Hi
