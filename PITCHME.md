@@ -132,28 +132,12 @@
 @snapend
 
 @snap[west span-30 text-center fragment]
-@ol
-```md
-`_ตัวเอียง_`
-
-```
-```md
-_ตัวเอียง_
-
-```
-@olend @snapend
+@box[bg-black](`_ตัวเอียง_`)
+@snapend
 
 @snap[east span-30 text-10 fragment]
-@ol
-```md
-`_ตัวเอียง_`
-
-```
-```md
-_ตัวเอียง_
-
-```
-@olend @snapend
+@box[bg-black](_ตัวเอียง_)
+@snapend
 
 @snap[south-west span-30 text-10 fragment]
 @box[bg-black](`**ตัวหนา**`)
@@ -263,3 +247,8 @@ _ตัวเอียง_
 **@color[orange](ผลลัพธ์)**
 
 [**LEANPUB**](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
+---
+1 | รูปแบบตัวอักษร | ผลลัพธ์ |
+2 | --------- | ---------- |
+3 |   `_ตัวเอียง_`   |    _ตัวเอียง_   |
+4 |   `**ตัวหนา**`   |    **ตัวหนา**   |
