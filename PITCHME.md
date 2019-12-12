@@ -11,7 +11,7 @@
 
 @snapend
 
-@snap[west span-40 text-center]
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
@@ -21,7 +21,8 @@
  * Orange
 
 @snapend
-@snap[east span-40 text-center]
+
+@snap[west span-40 text-center]
 @ul[list-square-bullets striped-list-items](false) 
 ```html
         HTML
@@ -36,7 +37,9 @@
 ```
 @snapend  
 
-@snap[south-east span-40 text-center]
++++?image=audience.png
+
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)  
 
 ```md
@@ -50,6 +53,17 @@
 
 ```
 @snapend  
+
+@snap[west span-40 text-center]
+@ul[list-square-bullets striped-list-items](false)
+
+# Hello
+## Hi
+ * Apple
+ * Banana
+ * Orange
+
+@snapend
 
 ---?image=audience.png
 
@@ -79,7 +93,7 @@
 @ulend
 @snapend
 
----
++++
 
 @snap[west span-45 text-center]
 ## @color[orange](**ผลลัพธ์**) 
@@ -107,30 +121,27 @@
 
 @snap[north-west span-50 text-left]
 ### @color[orange](**รูปแบบตัวอักษร**)
-
 @snapend
 
 @snap[north-east span-50 text-center text-08]
-
 ## @color[orange](**ผลลัพธ์**)
-
 @snapend
 
-@snap[west span-30 text-center fragment]
+@snap[west span-30 text-center fragment]@ol
 @box[bg-black](`_ตัวเอียง_`)
 @snapend
 
 @snap[east span-30 text-10 fragment]
 @box[bg-black](_ตัวเอียง_)
-@snapend
+@olend @snapend
 
-@snap[south-west span-30 text-10 fragment]
+@snap[south-west span-30 text-10 fragment]@ol
 @box[bg-black](`**ตัวหนา**`)
 @snapend
 
 @snap[south-east span-30 text-10 fragment]
 @box[bg-black](**ตัวหนา**)
-@snapend
+@olend @snapend
 
 ---?image=audience.png
 
