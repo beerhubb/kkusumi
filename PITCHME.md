@@ -22,7 +22,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 @snap[north-west span-50 text-center]
 ### @color[orange](**การเขียนหัวเรื่อง**)  
 
-```php
+```md
   
         ## หัวเรื่อง 2
 
@@ -60,7 +60,7 @@ Markdown คือ ภาษาคอมพิวเตอร์ ที่มน
 @snap[north-west span-50 text-center]
 ### @color[orange](**รูปแบบตัวอักษร**)
 
-```php
+```md
   
         ตัวเอียง     _สวัสดี_
 
@@ -91,7 +91,7 @@ _@color[silver](สวัสดี)_
 @snap[north-west span-50 text-center]
 ### @color[orange](**แบบเรียงลำดับ**)
 
-```php
+```md
   
 
        1. สวัสดี  
@@ -128,7 +128,7 @@ _@color[silver](สวัสดี)_
 
 ### @color[orange](**แบบไม่เรียงลำดับ**)  
 
-```php
+```md
   
 
        - สวัสดี  
