@@ -32,8 +32,7 @@
  <ul>
    <li>Apple</li>
    <li>Banana</li>
-   <li>Orange</li>
- </ul>
+   <li>Orange</li></ul>
 
 ```
 @snapend  
