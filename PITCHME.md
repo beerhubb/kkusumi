@@ -20,7 +20,7 @@
 ---?image=audience.png
 
 @snap[west span-45 text-center]
-### @color[orange](**การเขียนหัวเรื่อง**)  
+### @color[orange](**การเขียน<br>หัวเรื่อง**)  
 @snapend
 
 @snap[east span-55 text-center]
@@ -37,7 +37,6 @@
         ##### หัวเรื่อง 5
 
         ###### หัวเรื่อง 6
-
 
 ```
 
