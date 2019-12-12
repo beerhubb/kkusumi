@@ -32,7 +32,7 @@
  <ul>
    <li>Apple</li>
    <li>Banana</li>
-   <li>Orange</li></ul>
+   <li>Orange</li></ul>  
 
 ```
 @snapend  
@@ -41,6 +41,7 @@
 @ul[list-square-bullets striped-list-items](false)  
 
 ```md
+
         Markdown
 
 # Hello
