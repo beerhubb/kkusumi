@@ -132,12 +132,28 @@
 @snapend
 
 @snap[west span-30 text-center fragment]
-@box[bg-black](`_ตัวเอียง_`)
-@snapend
+@ol
+```md
+`_ตัวเอียง_`
+
+```
+```md
+_ตัวเอียง_
+
+```
+@olend @snapend
 
 @snap[east span-30 text-10 fragment]
-@box[bg-black](_ตัวเอียง_)
-@snapend
+@ol
+```md
+`_ตัวเอียง_`
+
+```
+```md
+_ตัวเอียง_
+
+```
+@olend @snapend
 
 @snap[south-west span-30 text-10 fragment]
 @box[bg-black](`**ตัวหนา**`)
