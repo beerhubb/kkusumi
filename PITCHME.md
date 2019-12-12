@@ -54,6 +54,8 @@
 @snap[east span-55 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
+# @color[silver](หัวเรื่อง 1)
+
 ## @color[silver](หัวเรื่อง 2)
 
 ### @color[silver](หัวเรื่อง 3)
