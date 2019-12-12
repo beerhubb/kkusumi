@@ -21,7 +21,7 @@
  * Orange
 
 @snapend
-@snap[east span-50 text-center]
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false) 
 
 ```html
