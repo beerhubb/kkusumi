@@ -41,7 +41,6 @@
 @ul[list-square-bullets striped-list-items](false)  
 
 ```md
-
         Markdown
 
 # Hello
