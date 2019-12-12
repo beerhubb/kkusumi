@@ -118,7 +118,7 @@
 
 @snapend
 
-@snap[west span-30 text-10 fragment]
+@snap[west span-30 text-center fragment]
 @box[bg-black](`_ตัวเอียง_`)
 @snapend
 
@@ -189,7 +189,7 @@
   
 
        + พุทธ  
-       
+
 ```
 @snapend
 
