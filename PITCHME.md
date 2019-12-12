@@ -3,7 +3,19 @@
 
 ---?image=audience.png
 
-## @color[orange](เริ่มเขียน Markdown)
+## @color[orange](ทำไมต้องใช้ **Markdown**?)
+
+@snap[south-west span-30 text-06 fragment]
+@box[rounded text-white box-graphql](Step 1.#Describe your data.)
+@snapend
+
+@snap[south span-30 text-06 fragment]
+@box[rounded text-white box-graphql](Step 2.#Ask for what you want.)
+@snapend
+
+@snap[south-east span-30 text-06 fragment]
+@box[rounded text-white box-graphql](Step 3.#Get predictable results.)
+@snapend
 
 ---?image=audience.png
 
