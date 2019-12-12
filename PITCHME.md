@@ -11,7 +11,7 @@
 
 @snapend
 
-@snap[west span-40 text-center]
+@snap[west span-40 text-center text-1.5]
 @ul[list-square-bullets striped-list-items](false)
 
         <h1> Hello </h1>
