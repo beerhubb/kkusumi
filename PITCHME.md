@@ -3,9 +3,6 @@
 
 ---?image=audience.png
 
-## @color[orange](ทำไมต้องใช้ **Markdown**?)
-
----?image=audience.png
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
@@ -32,8 +29,10 @@
  <ul>
    <li>Apple</li>
    <li>Banana</li>
-   <li>Orange</li></ul>  
-   
+   <li>Orange</li></ul>
+
+
+
 
 ```
 @snapend  
