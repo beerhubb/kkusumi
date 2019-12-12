@@ -22,10 +22,10 @@
 
 @snapend
 @snap[east span-40 text-center]
-@ul[list-square-bullets striped-list-items](false)
-#### HTML  
+@ul[list-square-bullets striped-list-items](false) 
 
 ```html
+<strong>HTML</strong>
 
        <h1> Hello </h1>
  <h2> Hi </h2>
@@ -39,10 +39,10 @@
 @snapend  
 
 @snap[south-east span-40 text-center]
-@ul[list-square-bullets striped-list-items](false)
-#### Markdown  
+@ul[list-square-bullets striped-list-items](false)  
 
 ```md
+`Markdown`
 
 # Hello
 ## Hi
