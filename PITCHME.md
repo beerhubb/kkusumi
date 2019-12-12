@@ -3,9 +3,7 @@
 
 ---?image=audience.png
 
-@snap[north span-50 text-center]
 ## @color[orange](ทำไมต้องใช้ **Markdown**?)
-@snapend
 
 ---?image=audience.png
 @snap[north span-90 text-center]
@@ -16,41 +14,48 @@
 @snap[west span-55 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
-```md
+```้html
 
-        # หัวเรื่อง 1
-  
-        ## หัวเรื่อง 2
-
-        ### หัวเรื่อง 3
-
-        #### หัวเรื่อง 4
-
-        ##### หัวเรื่อง 5
-
-        ###### หัวเรื่อง 6
+        <h1> Hello </h1>
+ <h2> Hi </h2>
+ <ul>
+   <li>Apple</li>
+   <li>Banana</li>
+   <li>Orange</li>
+ </ul>
 
 ```
 @snapend
+@snap[minpoint span-55 text-center]
+@ul[list-square-bullets striped-list-items](false)
+
+```html
+
+       `<h1> Hello </h1>
+ <h2> Hi </h2>
+ <ul>
+   <li>Apple</li>
+   <li>Banana</li>
+   <li>Orange</li>
+ </ul>`
+
+```
+@snapend  
+
 @snap[east span-55 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 ```md
 
-        # หัวเรื่อง 1
-  
-        ## หัวเรื่อง 2
-
-        ### หัวเรื่อง 3
-
-        #### หัวเรื่อง 4
-
-        ##### หัวเรื่อง 5
-
-        ###### หัวเรื่อง 6
+# `Hello
+## Hi
+* Apple
+* Banana
+* Orange`
 
 ```
 @snapend  
+
 ---?image=audience.png
 
 @snap[west span-45 text-center]
@@ -79,14 +84,10 @@
 @ulend
 @snapend
 
----?image=audience.png
+---
 
 @snap[west span-45 text-center]
-<<<<<<< HEAD
-### @color[orange](**ผลลัพธ์**) 
-=======
 ## @color[orange](**ผลลัพธ์**) 
->>>>>>> 12bd54c776312fd4f2b9c4fadba67e3e84b7e634
 @snapend
 
 @snap[east span-55 text-center]
