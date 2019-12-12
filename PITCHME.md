@@ -7,18 +7,50 @@
 ## @color[orange](ทำไมต้องใช้ **Markdown**?)
 @snapend
 
-@snap[south-west span-30 text-06 fragment]
-@box[rounded text-white box-graphql](Step 1.#Describe your data.)
+---?image=audience.png
+@snap[north span-90 text-center]
+### @color[orange](ทำไมต้องใช้ **Markdown**?)
+
 @snapend
 
-@snap[south span-30 text-06 fragment]
-@box[rounded text-white box-graphql](Step 2.#Ask for what you want.)
-@snapend
+@snap[west span-55 text-center]
+@ul[list-square-bullets striped-list-items](false)
 
-@snap[south-east span-30 text-06 fragment]
-@box[rounded text-white box-graphql](Step 3.#Get predictable results.)
-@snapend
+```md
 
+        # หัวเรื่อง 1
+  
+        ## หัวเรื่อง 2
+
+        ### หัวเรื่อง 3
+
+        #### หัวเรื่อง 4
+
+        ##### หัวเรื่อง 5
+
+        ###### หัวเรื่อง 6
+
+```
+@snapend
+@snap[east span-55 text-center]
+@ul[list-square-bullets striped-list-items](false)
+
+```md
+
+        # หัวเรื่อง 1
+  
+        ## หัวเรื่อง 2
+
+        ### หัวเรื่อง 3
+
+        #### หัวเรื่อง 4
+
+        ##### หัวเรื่อง 5
+
+        ###### หัวเรื่อง 6
+
+```
+@snapend  
 ---?image=audience.png
 
 @snap[west span-45 text-center]
@@ -50,7 +82,11 @@
 ---?image=audience.png
 
 @snap[west span-45 text-center]
+<<<<<<< HEAD
 ### @color[orange](**ผลลัพธ์**) 
+=======
+## @color[orange](**ผลลัพธ์**) 
+>>>>>>> 12bd54c776312fd4f2b9c4fadba67e3e84b7e634
 @snapend
 
 @snap[east span-55 text-center]
@@ -76,26 +112,28 @@
 @snap[north-west span-50 text-center]
 ### @color[orange](**รูปแบบตัวอักษร**)
 
-```md
-
-     ตัวเอียง          _ตัวเอียง_
-        
-     ตัวหนา           **ตัวหนา**
-     `ขีดฆ่า           ~~ขีดฆ่า~~`
-
-```
 @snapend
 
 @snap[north-east span-50 text-center text-08]
 
 ## @color[orange](**ผลลัพธ์**)
 
-_@color[silver](ตัวเอียง)_  
-  
-**@color[silver](ตัวหนา)**  
-  
-~~@color[silver](ขีดฆ่า)~~  
+@snapend
 
+@snap[west span-30 text-10 fragment]
+@box[bg-orange](`_ตัวเอียง_`)
+@snapend
+
+@snap[east span-30 text-10 fragment]
+@box[bg-orange](_ตัวเอียง_)
+@snapend
+
+@snap[south-west span-30 text-10 fragment]
+@box[bg-orange](`**ตัวหนา**`)
+@snapend
+
+@snap[south-east span-30 text-10 fragment]
+@box[bg-orange](**ตัวหนา**)
 @snapend
 
 ---?image=audience.png
