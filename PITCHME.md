@@ -19,8 +19,12 @@
 
 ---?image=audience.png
 
-@snap[north-west span-50 text-center]
+@snap[west span-45 text-center]
 ### @color[orange](**การเขียนหัวเรื่อง**)  
+@snapend
+
+@snap[east span-55 text-center]
+@ul[list-square-bullets striped-list-items](false)
 
 ```md
   
@@ -36,6 +40,11 @@
 
 
 ```
+
+@ulend
+@snapend
+
+---
 
 @snapend
 
@@ -57,17 +66,9 @@
 
 ---?image=audience.png
 
-@snap[north-west span-50 text-center]
+@snap[north-west span-40 text-center]
 ### @color[orange](**รูปแบบตัวอักษร**)
 
-```md
-  
-    ตัวเอียง          _ตัวเอียง_
-
-    ตัวหนา           **ตัวหนา**
-
-    ``ขีดฆ่า           ~~ขีดฆ่า~~``
-```
 
 @snapend
 
