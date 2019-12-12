@@ -82,12 +82,12 @@
 
 @snapend
 
-@snap[west span-30 text-06 fragment]
-@box[rounded text-white box-graphql](`_ตัวเอียง_`)
+@snap[west span-30 text-10 fragment]
+@box[rounded text-white box-blue](`_ตัวเอียง_`)
 @snapend
 
-@snap[east span-30 text-06 fragment]
-@box[rounded text-white box-graphql](_ตัวเอียง_)
+@snap[east span-30 text-10 fragment]
+@box[rounded text-white box-blue](_ตัวเอียง_)
 @snapend
 
 ---?image=audience.png
