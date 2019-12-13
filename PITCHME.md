@@ -240,6 +240,13 @@
 
 ---?image=audience.png 
 
+@snap[north-west span-50 text-center]
+
+## @color[orange](ใส่รูปภาพใน Markdown)
+
+![Google](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
+
+@snapend
 ## @color[orange](ใส่รูปภาพใน Markdown)
 
             ![Google](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
