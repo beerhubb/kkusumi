@@ -74,7 +74,7 @@
 
 ---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
-@snap[north-west span-45 text-center]
+@snap[north-east span-45 text-center]
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
 @snapend
 
