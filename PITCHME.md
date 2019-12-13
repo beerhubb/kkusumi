@@ -229,23 +229,15 @@
 
 ---?image=audience.png 
 
-@snap[north-west span-50 text-center]
+---?image=audience.png
 
-## @color[orange](ใส่รูปภาพใน Markdown)
+## @color[orange](ใส่ Video ใน Markdown)
 
-                        ![Google](branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+        ![Video](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
-@snapend
-@snap[north-east span-50 text-center text-08]
+**@color[orange](ผลลัพธ์)**
 
-## @color[orange](ผลลัพธ์) 
-@snapend
-
-@snap[east span-50 text-center text-08]
-
-### ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
- 
-@snapend
+![Video](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 ---?image=audience.png
 
