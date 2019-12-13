@@ -154,16 +154,16 @@
 ### @color[orange](**แบบเรียงลำดับ**)
 
 ```md
-       1. แมว
-       1. หมา
-       1. หมู
-       1. ไก่
+       1. แมว  
+       1. หมา  
+       1. หมู  
+       1. ไก่  
 ```
 ```md
-       1. แมว
-       2. หมา
-       3. หมู
-       4. ไก่
+       1. แมว  
+       2. หมา  
+       3. หมู  
+       4. ไก่  
 ```
 
 @snapend
@@ -179,7 +179,7 @@
 ####  
 4. ไก่  
 @snapend
-@snap[north-east span-50 text-center text-08]
+@snap[south-east span-50 text-center text-08]
 ## @color[orange](**ผลลัพธ์**)
 
 1. แมว  
