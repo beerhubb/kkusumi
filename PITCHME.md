@@ -155,23 +155,30 @@
 
 ```md
        1. แมว
-```
-  
-```md
        1. หมา
-
-```
-
-```md
        1. หมู
-```
-
-```md
        1. ไก่
+```
+```md
+       1. แมว
+       2. หมา
+       3. หมู
+       4. ไก่
 ```
 
 @snapend
 
+@snap[north-east span-50 text-center text-08]
+## @color[orange](**ผลลัพธ์**)
+
+1. แมว  
+####  
+2. หมา  
+####  
+3. หมู  
+####  
+4. ไก่  
+@snapend
 @snap[north-east span-50 text-center text-08]
 ## @color[orange](**ผลลัพธ์**)
 
