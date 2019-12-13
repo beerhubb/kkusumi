@@ -13,9 +13,9 @@
 
 # Hello
 ## Hi
- * Apple
- * Banana
- * Orange
+* Apple
+* Banana
+* Orange
 
 @snapend
 
@@ -24,8 +24,8 @@
 ```html
         HTML
 
-<h1> Hello </h1>
- <h2> Hi </h2>
+<h1>Hello</h1>
+<h2>Hi</h2>
  <ul>
    <li>Apple</li>
    <li>Banana</li>
@@ -50,9 +50,9 @@
 
 # Hello
 ## Hi
- * Apple
- * Banana
- * Orange
+* Apple
+* Banana
+* Orange
 
 ```
 @snapend  
@@ -62,9 +62,9 @@
 
 # Hello
 ## Hi
- * Apple
- * Banana
- * Orange
+* Apple
+* Banana
+* Orange
 
 @snapend
 
@@ -154,10 +154,10 @@
 
 @snap[south-west span-50 text-center]
 ```md
-       1. แมว  
-       2. หมา  
-       3. หมู  
-       4. ไก่  
+       1. จันทร์  
+       2. อังคาร 
+       3. พุธ  
+       4. พฤหัสบดี  
 ```
 
 @snapend
@@ -176,13 +176,13 @@
 @snap[south-east span-50 text-center text-08]
 
 
-1. แมว  
+1. จันทร์  
 ####  
-2. หมา  
+2. อังคาร  
 ####  
-3. หมู  
+3. พุธ  
 ####  
-4. ไก่  
+4. พฤหัสบดี  
 @snapend
 
 ---
@@ -233,7 +233,7 @@
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-        ![Video](https://www.google.co.th/images/branding/googlelogo_272x92dp.png)
+        ![imgae](https://www.google.co.th/images/branding/googlelogo_272x92dp.png)
 
 **@color[orange](ผลลัพธ์)**
 
@@ -255,4 +255,4 @@
 
 **@color[orange](ผลลัพธ์)**
 
-[**Google**](https://www.google.com/)
+[**Google**](https://www.google.com/) 
