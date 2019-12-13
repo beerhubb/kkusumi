@@ -1,8 +1,8 @@
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 ## @color[orange](**Markdown** คืออะไร?)
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
@@ -39,7 +39,7 @@
 ```
 @snapend  
 
-+++?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
++++?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
@@ -72,7 +72,7 @@
 
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 @snap[north-west span-45 text-center]
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
@@ -117,7 +117,7 @@
 @ulend
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 @snap[north-west span-50 text-left]
 ### @color[orange](**รูปแบบตัวอักษร**)
@@ -137,11 +137,11 @@
 @box[bg-black](**ตัวหนา**)
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 ### @color[orange](**การใช้ลิสด์มี 2 แบบ**)
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 @snap[north-west span-50 text-center]
 ### @color[orange](**แบบเรียงลำดับ**)
@@ -188,7 +188,7 @@
 4. พฤหัสบดี  
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 @snap[north-west span-50 text-center]
 
@@ -232,30 +232,30 @@
  
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 ## @color[orange](ใส่รูปใน Markdown)
 
-                   ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.md.png)
+        ![รูปภาพ](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
 
 **@color[orange](ผลลัพธ์)**
 
-![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.md.png)
+![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-                                      ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+        ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
 
-<iframe width="520" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg
+---?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-                                            [Google](https://www.google.com/)
+        [leanpub](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1)
 
 **@color[orange](ผลลัพธ์)**
 
-[**Google**](https://www.google.com/) 
+[**leanpub**](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1) 
