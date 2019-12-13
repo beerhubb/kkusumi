@@ -1,4 +1,4 @@
----?image=stormtroopers.png
+---?image=stormtroopers.jpg
 ## @color[orange](**Markdown** คืออะไร?)
 
 ---?image=audience.png
