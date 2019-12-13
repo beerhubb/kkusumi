@@ -1,7 +1,7 @@
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
 ## @color[orange](**Markdown** คืออะไร?)
-
+ 
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
 @snap[north span-90 text-center]
@@ -78,7 +78,7 @@
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
 @snapend
 
-@snap[west span-55 text-center]
+@snap[west span-40 text-right]
 @ul[list-square-bullets striped-list-items](false)
 
 ```md
@@ -149,10 +149,15 @@
 ### @color[orange](**แบบเรียงลำดับ**)
 
 ```md
+  
        1. แมว  
+  
        1. หมา  
+  
        1. หมู  
+  
        1. ไก่  
+  
 ```
 @snapend
 
@@ -195,23 +200,36 @@
 @snap[north-west span-50 text-center]
 
 ### @color[orange](**แบบไม่เรียงลำดับ**)  
-
+## 
 ```md
-       - หนึ่ง
-       - สอง
-       - สาม
+  
+       - หนึ่ง  
+  
+       - สอง  
+  
+       - สาม  
+  
+```
+#  
+#  
+```md
+  
+       * สี่  
+       
+       * ห้า  
+
+       * หก  
+
 ```
 
 ```md
-       * สี่
-       * ห้า
-       * หก
-```
-
-```md
-       + เจ็ด
-       + แปด
-       + เก้า
+  
+       + เจ็ด  
+  
+       + แปด  
+  
+       + เก้า  
+  
 ```
 @snapend
 
