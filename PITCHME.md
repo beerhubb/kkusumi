@@ -248,7 +248,10 @@
 @snapend
 @snap[north-east span-50 text-center text-08]
 
-## @color[orange](ผลลัพธ์)  
+## @color[orange](ผลลัพธ์) 
+@snapend
+
+@snap[east span-50 text-center text-08]
 
 ### ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
  
