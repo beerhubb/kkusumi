@@ -1,7 +1,9 @@
 ---
-## @color[orange](**Markdown** คืออะไร?)
----@snap[north span-90 text-center]
 
+## @color[orange](**Markdown** คืออะไร?)
+
+---
+@snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
 @snapend
@@ -10,78 +12,69 @@
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
-
 ## Hi
-
-- Apple
-- Banana
-- Orange
+* Apple
+* Banana
+* Orange
 
 @snapend
+
 
 @snap[east span-40 text-center]
 
 ### @color[orange](HTML)
 
-@ul[list-square-bullets striped-list-items](false)
-
+@ul[list-square-bullets striped-list-items](false) 
 ```html
+
 <h1>Hello</h1>
 <h2>Hi</h2>
-<ul>
-  <li>Apple</li>
-  <li>Banana</li>
-  <li>Orange</li>
-</ul>
+ <ul>
+   <li>Apple</li>
+   <li>Banana</li>
+   <li>Orange</li>
+ </ul>  
+  
 ```
-
-@snapend
+@snapend  
 
 +++
 
 @snap[north span-90 text-center]
-
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
 @snapend
 
 @snap[east span-40 text-center]
-
 ### @color[orange](Markdown)
-
-@ul[list-square-bullets striped-list-items](false)
+@ul[list-square-bullets striped-list-items](false)  
 
 ```md
+
 # Hello
-
 ## Hi
+* Apple
+* Banana
+* Orange
 
-- Apple
-- Banana
-- Orange
 ```
-
-@snapend
+@snapend  
 
 @snap[west span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
-
 ## Hi
-
-- Apple
-- Banana
-- Orange
+* Apple
+* Banana
+* Orange
 
 @snapend
 
 ---
 
 @snap[north-west span-45 text-center]
-
-### @color[orange](**การเขียน<br>หัวเรื่อง**)
-
+### @color[orange](**การเขียน<br>หัวเรื่อง**)  
 @snapend
 
 @snap[west span-55 text-center]
@@ -99,6 +92,7 @@
         ##### หัวเรื่อง 5
 
         ###### หัวเรื่อง 6
+
 ```
 
 @ulend
@@ -125,15 +119,11 @@
 ---
 
 @snap[north-west span-50 text-left]
-
 ### @color[orange](**รูปแบบตัวอักษร**)
-
 @snapend
 
 @snap[north-east span-50 text-center text-08]
-
-## @color[orange](** ผลลัพธ์**)
-
+## @color[orange](**    ผลลัพธ์**)
 @snapend
 
 @snap[west span-30 text-center fragment]
@@ -146,6 +136,8 @@
 @box[bg-black](**ตัวหนา**)
 @snapend
 
+
+
 ---
 
 ### @color[orange](**การใช้ลิสด์มี 2 แบบ**)
@@ -153,69 +145,55 @@
 ---
 
 @snap[north-west span-50 text-center]
-
 ### @color[orange](**แบบเรียงลำดับ**)
 
 ```md
-       1. แมว
-       1. หมา
-       1. หมู
-       1. ไก่
+       1. แมว  
+       1. หมา  
+       1. หมู  
+       1. ไก่  
 ```
-
 @snapend
 
 @snap[south-west span-50 text-center]
 
 ```md
-       1. จันทร์
-       2. อังคาร
-       3. พุธ
-       4. พฤหัสบดี
+       1. จันทร์  
+       2. อังคาร  
+       3. พุธ  
+       4. พฤหัสบดี  
 ```
 
 @snapend
 
 @snap[north-east span-50 text-center text-08]
-
 ## @color[orange](**ผลลัพธ์**)
 
-1. แมว
-
-####
-
-2. หมา
-
-####
-
-3. หมู
-
-####
-
+1. แมว  
+####  
+2. หมา  
+####  
+3. หมู  
+####  
 4. ไก่  
-   @snapend
-   @snap[south-east span-50 text-center text-08]
+@snapend
+@snap[south-east span-50 text-center text-08]
 
-1) จันทร์
 
-####
-
-2. อังคาร
-
-####
-
-3. พุธ
-
-####
-
+1. จันทร์  
+####  
+2. อังคาร  
+####  
+3. พุธ  
+####  
 4. พฤหัสบดี  
-   @snapend
+@snapend
 
 ---
 
 @snap[north-west span-50 text-center]
 
-### @color[orange](**แบบไม่เรียงลำดับ**)
+### @color[orange](**แบบไม่เรียงลำดับ**)  
 
 ```md
        - หนึ่ง
@@ -234,34 +212,28 @@
        + แปด
        + เก้า
 ```
-
 @snapend
 
 @snap[north-east span-50 text-center text-08]
 
-## @color[orange](ผลลัพธ์)
+## @color[orange](ผลลัพธ์)  
 
 ● หนึ่ง  
 ● สอง  
-● สาม
-
-####
-
+● สาม  
+#### 
 ● สี่  
 ● ห้า  
-● หก
-
-####
-
+● หก  
+#### 
 ● เจ็ด  
 ● แปด  
-● เก้า
-
-####
-
+● เก้า  
+#### 
+ 
 @snapend
 
----
+--- 
 
 ## @color[orange](ใส่รูปใน Markdown)
 
@@ -279,7 +251,7 @@
 
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----
+--- 
 
 ## @color[orange](ใส่ link ใน Markdown)
 
@@ -287,4 +259,4 @@
 
 **@color[orange](ผลลัพธ์)**
 
-[**Google**](https://www.google.com/)
+[**Google**](https://www.google.com/) 
