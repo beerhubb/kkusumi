@@ -1,6 +1,6 @@
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
-# @color[orange](**Markdown** คืออะไร?)
+## @color[orange](**Markdown** คืออะไร?)
 
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
@@ -9,7 +9,7 @@
  
 @snapend
 
-@snap[east span-40 text-center]
+@snap[west span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
@@ -21,7 +21,7 @@
 @snapend
 
 
-@snap[west span-40 text-center]
+@snap[east span-40 text-center]
 
 ### @color[orange](HTML)
 
@@ -46,7 +46,7 @@
 
 @snapend
 
-@snap[west span-40 text-center]
+@snap[east span-40 text-center]
 ### @color[orange](Markdown)
 @ul[list-square-bullets striped-list-items](false)  
 
@@ -61,7 +61,7 @@
 ```
 @snapend  
 
-@snap[east span-40 text-center]
+@snap[west span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
@@ -236,26 +236,26 @@
 
 ## @color[orange](ใส่รูปใน Markdown)
 
-        ![รูปภาพ](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
+              ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.png)
 
 **@color[orange](ผลลัพธ์)**
 
-![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
+![รูป](https://sv1.picz.in.th/images/2019/12/13/iltrpa.png)
 
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-        ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+                               ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
 
-<iframe width="700" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-        [leanpub](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1)
+                                      [Google](https://www.google.com/)
 
 **@color[orange](ผลลัพธ์)**
 
-[**leanpub**](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1) 
+[**Google**](https://www.google.com/)
