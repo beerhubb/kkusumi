@@ -29,11 +29,11 @@
 
 <h1>Hello</h1>
 <h2>Hi</h2>
- <ul>
-   <li>Apple</li>
-   <li>Banana</li>
-   <li>Orange</li>
- </ul>  
+<ul>
+ <li>Apple</li>
+ <li>Banana</li>
+ <li>Orange</li>
+</ul>  
   
 ```
 @snapend  
@@ -98,7 +98,7 @@
 @ulend
 @snapend
 
-@snap[east span-55 text-right]
+@snap[east span-55 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # @color[silver](หัวเรื่อง 1)
@@ -237,26 +237,26 @@
 
 ## @color[orange](ใส่รูปใน Markdown)
 
-        ![imgae](https://www.google.co.th/images/branding/googlelogo_272x92dp.png)
+        ![รูปภาพ](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
 
 **@color[orange](ผลลัพธ์)**
 
-![Google](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
 
 ---
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-        ![Video](https://www.youtube.com/embed/KmW0iSGlCgQ)
+        ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
 
-<iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --- 
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-                        [Google](https://www.google.com)
+                        [leanpub](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1)
 
 **@color[orange](ผลลัพธ์)**
 
-[**Google**](https://www.google.com/) 
+[**leanpub**](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1) 
