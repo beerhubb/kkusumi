@@ -243,17 +243,16 @@
 @snap[north-west span-50 text-center]
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
-
-![Google](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
-
-@snapend
-## @color[orange](ใส่รูปภาพใน Markdown)
-
             ![Google](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 
-**@color[orange](ผลลัพธ์)**
+@snapend
+@snap[north-east span-50 text-center text-08]
+
+## @color[orange](ผลลัพธ์)  
 
 ### ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+ 
+@snapend
 
 ---?image=audience.png
 
