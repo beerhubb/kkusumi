@@ -78,7 +78,7 @@
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
 @snapend
 
-@snap[west span-60 text-right]
+@snap[west span-40 text-right]
 @ul[list-square-bullets striped-list-items](false)
 
 ```md
