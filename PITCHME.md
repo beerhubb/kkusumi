@@ -23,12 +23,13 @@
 ```html
         HTML
 
-       <h1> Hello </h1>
+<h1> Hello </h1>
  <h2> Hi </h2>
  <ul>
    <li>Apple</li>
    <li>Banana</li>
-   <li>Orange</li></ul>  
+   <li>Orange</li>
+ </ul>  
   
 ```
 @snapend  
@@ -195,13 +196,19 @@
 
 ```md
        - จันทร์
+       - จันทร์
+       - จันทร์
 ```
 
 ```md
        * อังคาร
+       * อังคาร
+       * อังคาร
 ```
 
 ```md
+       + พุทธ
+       + พุทธ
        + พุทธ
 ```
 @snapend
@@ -211,9 +218,15 @@
 ## @color[orange](ผลลัพธ์)  
 
 ● จันทร์  
+● จันทร์ 
+● จันทร์ 
 #### 
-● อังคาร  
+● อังคาร 
+● อังคาร
+● อังคาร 
 #### 
+● พุทธ  
+● พุทธ  
 ● พุทธ  
 #### 
  
@@ -246,4 +259,4 @@
 
 **@color[orange](ผลลัพธ์)**
 
-[**LEANPUB**](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
+[**Google**](https://www.google.com/)
