@@ -68,29 +68,24 @@
 
 ---?image=audience.png
 
-@snap[west span-45 text-center]
+@snap[north-west span-45 text-center]
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
 @snapend
 
-@snap[east span-55 text-center]
+@snap[west span-55 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 ```md
         # หัวเรื่อง 1
-```
-```md
+
         ## หัวเรื่อง 2
-```
-```md
+
         ### หัวเรื่อง 3
-```
-```md
+
         #### หัวเรื่อง 4
-```
-```md
+
         ##### หัวเรื่อง 5
-```
-```md
+
         ###### หัวเรื่อง 6
 
 ```
@@ -98,9 +93,8 @@
 @ulend
 @snapend
 
-+++?image=audience.png
 
-@snap[west span-45 text-center]
+@snap[north-east span-45 text-center]
 ## @color[orange](**ผลลัพธ์**) 
 @snapend
 
