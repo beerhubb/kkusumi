@@ -93,12 +93,7 @@
 @ulend
 @snapend
 
-
-@snap[north-east span-45 text-center]
-## @color[orange](**ผลลัพธ์**) 
-@snapend
-
-@snap[east span-55 text-center]
+@snap[east span-55 text-right]
 @ul[list-square-bullets striped-list-items](false)
 
 # @color[silver](หัวเรื่อง 1)
