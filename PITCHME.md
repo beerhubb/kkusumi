@@ -272,7 +272,7 @@
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-    [Google](https://www.google.com/)
+        [Google](https://www.google.com)
 
 **@color[orange](ผลลัพธ์)**
 
