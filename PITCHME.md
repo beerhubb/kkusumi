@@ -2,7 +2,8 @@
 
 ## @color[orange](**Markdown** คืออะไร?)
 
----
+---https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
+
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
@@ -38,7 +39,7 @@
 ```
 @snapend  
 
-+++
++++https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
@@ -71,7 +72,7 @@
 
 @snapend
 
----
+---https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north-west span-45 text-center]
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
@@ -116,7 +117,7 @@
 @ulend
 @snapend
 
----
+---https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north-west span-50 text-left]
 ### @color[orange](**รูปแบบตัวอักษร**)
@@ -136,13 +137,11 @@
 @box[bg-black](**ตัวหนา**)
 @snapend
 
-
-
----
+---https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 ### @color[orange](**การใช้ลิสด์มี 2 แบบ**)
 
----
+---https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north-west span-50 text-center]
 ### @color[orange](**แบบเรียงลำดับ**)
@@ -189,7 +188,7 @@
 4. พฤหัสบดี  
 @snapend
 
----
+---https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north-west span-50 text-center]
 
@@ -233,7 +232,7 @@
  
 @snapend
 
---- 
+---https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 ## @color[orange](ใส่รูปใน Markdown)
 
@@ -243,7 +242,7 @@
 
 ![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
 
----
+---https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
@@ -251,7 +250,7 @@
 
 <iframe width="700" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
---- 
+---https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 ## @color[orange](ใส่ link ใน Markdown)
 
