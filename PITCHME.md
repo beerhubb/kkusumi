@@ -130,13 +130,13 @@
 @snap[west span-30 text-center fragment]
 @box[bg-black](`_ตัวเอียง_`)
 @box[bg-black](`**ตัวหนา**`)
-@box[bg-black](`~~ตัวหนา~~`)
+@box[bg-black](`~~ขีดฆ่า~~`)
 @snapend
 
 @snap[east span-30 text-10 fragment]
 @box[bg-black](_ตัวเอียง_)
 @box[bg-black](**ตัวหนา**)
-@box[bg-black](~~ตัวหนา~~)
+@box[bg-black](~~ขีดฆ่า~~)
 @snapend
 
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
