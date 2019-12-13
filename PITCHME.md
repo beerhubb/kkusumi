@@ -1,4 +1,4 @@
----?image=cover.jpg &size=cover&opacity=20
+---?image=https://pbs.twimg.com/media/DK5YhotU8AYP2jW.jpg
 
 ## @color[orange](**Markdown** คืออะไร?)
 
