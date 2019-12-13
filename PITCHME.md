@@ -1,12 +1,12 @@
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
-# @color[orange](**Markdown** คืออะไร?)
+## @color[orange](**Markdown** คืออะไร?)
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
- 
+
 @snapend
 
 @snap[west span-40 text-center]
@@ -39,7 +39,7 @@
 ```
 @snapend  
 
-+++?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
++++?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
@@ -72,7 +72,7 @@
 
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north-west span-45 text-center]
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
@@ -99,7 +99,7 @@
 @ulend
 @snapend
 
-@snap[east span-55 text-right]
+@snap[east span-55 text-center-right]
 @ul[list-square-bullets striped-list-items](false)
 
 # @color[white](หัวเรื่อง 1)
@@ -117,7 +117,7 @@
 @ulend
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north-west span-50 text-left]
 ### @color[orange](**รูปแบบตัวอักษร**)
@@ -137,11 +137,11 @@
 @box[bg-black](**ตัวหนา**)
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 ### @color[orange](**การใช้ลิสด์มี 2 แบบ**)
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north-west span-50 text-center]
 ### @color[orange](**แบบเรียงลำดับ**)
@@ -188,7 +188,7 @@
 4. พฤหัสบดี  
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 @snap[north-west span-50 text-center]
 
@@ -232,30 +232,30 @@
  
 @snapend
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 ## @color[orange](ใส่รูปใน Markdown)
 
-        ![รูปภาพ](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
+                   ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.md.png)
 
 **@color[orange](ผลลัพธ์)**
 
-![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
+![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.md.png)
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-        ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+                                      ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
 
-<iframe width="700" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="520" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----?image=https://c.pxhere.com/photos/fa/63/street_asphalt_line_lane_road_material_trees_forest-1058172.jpg!s
+---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-        [leanpub](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1)
+                                            [Google](https://www.google.com/)
 
 **@color[orange](ผลลัพธ์)**
 
-[**leanpub**](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1) 
+[**Google**](https://www.google.com/) 
