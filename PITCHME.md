@@ -9,7 +9,7 @@
  
 @snapend
 
-@snap[west span-40 text-center]
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
@@ -21,7 +21,7 @@
 @snapend
 
 
-@snap[east span-40 text-center]
+@snap[west span-40 text-center]
 
 ### @color[orange](HTML)
 
@@ -46,7 +46,7 @@
 
 @snapend
 
-@snap[east span-40 text-center]
+@snap[west span-40 text-center]
 ### @color[orange](Markdown)
 @ul[list-square-bullets striped-list-items](false)  
 
@@ -61,7 +61,7 @@
 ```
 @snapend  
 
-@snap[west span-40 text-center]
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
