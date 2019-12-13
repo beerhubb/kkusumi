@@ -229,11 +229,9 @@
 
 ---?image=audience.png 
 
----?image=audience.png
-
 ## @color[orange](ใส่ Video ใน Markdown)
 
-        ![Video](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+        ![Video](https://www.google.co.th/images/branding/googlelogo_272x92dp.png)
 
 **@color[orange](ผลลัพธ์)**
 
