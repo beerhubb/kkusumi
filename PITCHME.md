@@ -1,7 +1,8 @@
 ---
+
 ## @color[orange](**Markdown** คืออะไร?)
 
----?image=audience.png
+---
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
@@ -35,6 +36,7 @@
 @snapend  
 
 +++
+
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
