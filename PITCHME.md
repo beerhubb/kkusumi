@@ -30,9 +30,9 @@
 <h1>Hello</h1>
 <h2>Hi</h2>
 <ul>
- <li>Apple</li>
- <li>Banana</li>
- <li>Orange</li>
+  <li>Apple</li>
+  <li>Banana</li>
+  <li>Orange</li>
 </ul>  
   
 ```
@@ -241,7 +241,7 @@
 
 **@color[orange](ผลลัพธ์)**
 
-![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
+![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg&size=50% 30%)
 
 ---
 
@@ -249,13 +249,13 @@
 
         ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
 
-<iframe width="900" height="506" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 --- 
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-                        [leanpub](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1)
+        [leanpub](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1)
 
 **@color[orange](ผลลัพธ์)**
 
