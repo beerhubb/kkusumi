@@ -238,7 +238,7 @@
 
 ## @color[orange](ใส่รูปใน Markdown)
 
-                    ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/ilZeuk.md.png)
+       ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/ilZeuk.md.png)
 
 **@color[orange](ผลลัพธ์)**
 
@@ -248,7 +248,7 @@
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-                                   ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+                ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
 
 **@color[orange](ผลลัพธ์)**
 
@@ -258,7 +258,7 @@
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-                                        [Google](https://www.google.com/)
+                   [Google](https://www.google.com/)
 
 **@color[orange](ผลลัพธ์)**
 
