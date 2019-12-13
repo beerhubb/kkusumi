@@ -236,7 +236,7 @@
 
 ## @color[orange](ใส่รูปใน Markdown)
 
-                       ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.md.png)
+                     ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.md.png)
 
 **@color[orange](ผลลัพธ์)**
 
@@ -246,7 +246,7 @@
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-                                                 ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+                                          ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
 
 <iframe width="520" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -254,7 +254,7 @@
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-                                                               [Google](https://www.google.com/)
+                                                 [Google](https://www.google.com/)
 
 **@color[orange](ผลลัพธ์)**
 
