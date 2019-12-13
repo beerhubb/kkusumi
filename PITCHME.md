@@ -249,7 +249,10 @@
 
 @snap[west span-50 text-center]
 
-  >![Video](https://youtu.be/KmW0iSGlCgQ)
+  ```
+        ![Video](https://www.youtube.com/embed/KmW0iSGlCgQ)
+
+  ```
 
 @snapend
 
