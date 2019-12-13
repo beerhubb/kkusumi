@@ -236,11 +236,11 @@
 
 ## @color[orange](ใส่รูปใน Markdown)
 
-        ![รูปภาพ](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
+        ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.md.png)
 
 **@color[orange](ผลลัพธ์)**
 
-![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
+![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.md.png)
 
 ---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
@@ -248,14 +248,14 @@
 
         ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
 
-<iframe width="700" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="520" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-        [leanpub](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1)
+        [Google](https://www.google.com/)
 
 **@color[orange](ผลลัพธ์)**
 
-[**leanpub**](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1) 
+[**Google**](https://www.google.com/) 
