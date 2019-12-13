@@ -99,7 +99,7 @@
 @ulend
 @snapend
 
-@snap[east span-55 text-center-right]
+@snap[east span-55 text-right]
 @ul[list-square-bullets striped-list-items](false)
 
 # @color[white](หัวเรื่อง 1)
