@@ -9,7 +9,7 @@
  
 @snapend
 
-@snap[west span-40 text-center]
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
@@ -21,7 +21,7 @@
 @snapend
 
 
-@snap[east span-40 text-center]
+@snap[west span-40 text-center]
 
 ### @color[orange](HTML)
 
@@ -46,7 +46,7 @@
 
 @snapend
 
-@snap[east span-40 text-center]
+@snap[west span-40 text-center]
 ### @color[orange](Markdown)
 @ul[list-square-bullets striped-list-items](false)  
 
@@ -61,7 +61,7 @@
 ```
 @snapend  
 
-@snap[west span-40 text-center]
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
@@ -236,7 +236,7 @@
 
 ## @color[orange](ใส่รูปใน Markdown)
 
-              ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.png)
+                   ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/iltrpa.png)
 
 **@color[orange](ผลลัพธ์)**
 
@@ -246,7 +246,9 @@
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-                               ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+                                 ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+
+**@color[orange](ผลลัพธ์)**
 
 <iframe width="640" height="300" src="https://www.youtube.com/embed/HUBNt18RFbo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -254,7 +256,7 @@
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-                                      [Google](https://www.google.com/)
+                                        [Google](https://www.google.com/)
 
 **@color[orange](ผลลัพธ์)**
 
