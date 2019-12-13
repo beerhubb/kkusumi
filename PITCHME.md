@@ -239,12 +239,6 @@
 
 ---?image=audience.png
 
-@snap[north span-50 text-center]
-
-## @color[orange](ใส่ Video ใน Markdown)
-
-@snapend
-
 ## @color[orange](ใส่ Video ใน Markdown)
 
         ![Video](https://www.google.co.th/images/branding/googlelogo_272x92dp.png)
