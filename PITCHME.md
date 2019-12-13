@@ -249,12 +249,17 @@
 
 ---?image=audience.png
 
+@snap[north span-50 text-center]
+
 ## @color[orange](ใส่ Video ใน Markdown)
+
+@snapend
+
 @snap[west span-50 text-center]
 
-                     ![Video](https://youtu.be/KmW0iSGlCgQ)
+  >![Video](https://youtu.be/KmW0iSGlCgQ)
+
 @snapend
-**@color[orange](ผลลัพธ์)**
 
 @snap[east span-50 text-center]
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
