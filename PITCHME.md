@@ -159,6 +159,9 @@
        1. หมู  
        1. ไก่  
 ```
+@snapend
+
+@snap[south-west span-50 text-center]
 ```md
        1. แมว  
        2. หมา  
