@@ -238,7 +238,7 @@
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
 
-```md
+```
         ![Google](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
 ```
 @snapend
@@ -257,7 +257,7 @@
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-            ![Video](https://youtu.be/KmW0iSGlCgQ)
+                     ![Video](https://youtu.be/KmW0iSGlCgQ)
 **@color[orange](ผลลัพธ์)**
 
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -266,7 +266,7 @@
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-    [Google](https://www.google.com/)
+                        [Google](https://www.google.com)
 
 **@color[orange](ผลลัพธ์)**
 
