@@ -99,20 +99,20 @@
 @ulend
 @snapend
 
-@snap[east span-55 text-center]
+@snap[east span-55 text-center-right]
 @ul[list-square-bullets striped-list-items](false)
 
-# @color[silver](หัวเรื่อง 1)
+# @color[white](หัวเรื่อง 1)
 
-## @color[silver](หัวเรื่อง 2)
+## @color[white](หัวเรื่อง 2)
 
-### @color[silver](หัวเรื่อง 3)
+### @color[white](หัวเรื่อง 3)
 
-#### @color[silver](หัวเรื่อง 4)
+#### @color[white](หัวเรื่อง 4)
 
-##### @color[silver](หัวเรื่อง 5)
+##### @color[white](หัวเรื่อง 5)
 
-###### @color[silver](หัวเรื่อง 6)
+###### @color[white](หัวเรื่อง 6)
 
 @ulend
 @snapend
