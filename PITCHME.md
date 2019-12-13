@@ -1,4 +1,4 @@
----
+---?image=https://lifestyle.campus-star.com/app/uploads/2018/06/cover-eng-presentation.jpg
 
 ## @color[orange](**Markdown** คืออะไร?)
 
@@ -241,7 +241,7 @@
 
 **@color[orange](ผลลัพธ์)**
 
-![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg&size=50% 30%)
+![Google](https://fs.lnwfile.com/_/fs/_raw/17/wy/st.jpg)
 
 ---
 
