@@ -241,7 +241,7 @@
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
-        ![Video](https://www.google.co.th/images/branding/googlelogo_272x92dp.png)
+        ![Video](https://www.youtube.com/embed/KmW0iSGlCgQ)
 
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
