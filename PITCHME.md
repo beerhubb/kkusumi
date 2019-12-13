@@ -1,4 +1,4 @@
----?image=fg.jpg
+---
 ## @color[orange](**Markdown** คืออะไร?)
 
 ---?image=audience.png
@@ -34,7 +34,7 @@
 ```
 @snapend  
 
-+++?image=audience.png
++++
 @snap[north span-90 text-center]
 ### @color[orange](ทำไมต้องใช้ **Markdown**?)
 
@@ -66,7 +66,7 @@
 
 @snapend
 
----?image=audience.png
+---
 
 @snap[north-west span-45 text-center]
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
@@ -111,7 +111,7 @@
 @ulend
 @snapend
 
----?image=audience.png
+---
 
 @snap[north-west span-50 text-left]
 ### @color[orange](**รูปแบบตัวอักษร**)
@@ -133,11 +133,11 @@
 
 
 
----?image=audience.png
+---
 
 ### @color[orange](**การใช้ลิสด์มี 2 แบบ**)
 
----?image=audience.png
+---
 
 @snap[north-west span-50 text-center]
 ### @color[orange](**แบบเรียงลำดับ**)
@@ -183,7 +183,7 @@
 4. ไก่  
 @snapend
 
----?image=audience.png
+---
 
 @snap[north-west span-50 text-center]
 
@@ -227,7 +227,7 @@
  
 @snapend
 
----?image=audience.png 
+--- 
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
@@ -237,7 +237,7 @@
 
 ![Video](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
----?image=audience.png
+---
 
 ## @color[orange](ใส่ Video ใน Markdown)
 
@@ -245,7 +245,7 @@
 
 <iframe width="360" height="240" src="https://www.youtube.com/embed/KmW0iSGlCgQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
----?image=audience.png 
+--- 
 
 ## @color[orange](ใส่ link ใน Markdown)
 
