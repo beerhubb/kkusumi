@@ -233,7 +233,7 @@
 
 ## @color[orange](ใส่รูปภาพใน Markdown)
 
-                ![Google](https://sv1.picz.in.th/images/2019/12/05/iZyaHz.jpg)
+                ![Google](https://www.google.co.th/branding/googlelogo//googlelogo_272x92dp.png)
 
 @snapend
 @snap[north-east span-50 text-center text-08]
