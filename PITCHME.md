@@ -19,10 +19,13 @@
 
 @snapend
 
+
 @snap[east span-40 text-center]
+
+### @color[orange](HTML)
+
 @ul[list-square-bullets striped-list-items](false) 
 ```html
-        HTML
 
 <h1>Hello</h1>
 <h2>Hi</h2>
@@ -43,10 +46,10 @@
 @snapend
 
 @snap[east span-40 text-center]
+### @color[orange](Markdown)
 @ul[list-square-bullets striped-list-items](false)  
 
 ```md
-        Markdown
 
 # Hello
 ## Hi
@@ -192,21 +195,21 @@
 ### @color[orange](**แบบไม่เรียงลำดับ**)  
 
 ```md
-       - จันทร์
-       - จันทร์
-       - จันทร์
+       - หนึ่ง
+       - สอง
+       - สาม
 ```
 
 ```md
-       * อังคาร
-       * อังคาร
-       * อังคาร
+       * สี่
+       * ห้า
+       * หก
 ```
 
 ```md
-       + พุธ
-       + พุธ
-       + พุธ
+       + เจ็ด
+       + แปด
+       + เก้า
 ```
 @snapend
 
@@ -214,17 +217,17 @@
 
 ## @color[orange](ผลลัพธ์)  
 
-● จันทร์  
-● จันทร์  
-● จันทร์  
+● หนึ่ง  
+● สอง  
+● สาม  
 #### 
-● อังคาร  
-● อังคาร  
-● อังคาร  
+● สี่  
+● ห้า  
+● หก  
 #### 
-● พุธ  
-● พุธ  
-● พุธ  
+● เจ็ด  
+● แปด  
+● เก้า  
 #### 
  
 @snapend
@@ -237,7 +240,7 @@
 
 **@color[orange](ผลลัพธ์)**
 
-![Video](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+![Google](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 ---
 
