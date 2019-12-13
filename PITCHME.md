@@ -183,7 +183,7 @@
 4. ไก่  
 @snapend
 @snap[south-east span-50 text-center text-08]
-## @color[orange](**ผลลัพธ์**)
+
 
 1. แมว  
 ####  
