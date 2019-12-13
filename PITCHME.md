@@ -231,7 +231,7 @@
 
 --- 
 
-## @color[orange](ใส่ Video ใน Markdown)
+## @color[orange](ใส่รูปใน Markdown)
 
         ![Video](https://www.google.co.th/images/branding/googlelogo_272x92dp.png)
 
