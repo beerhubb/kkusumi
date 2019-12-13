@@ -258,4 +258,4 @@
 
 **@color[orange](ผลลัพธ์)**
 
-[**leanpub**](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1) 
+[**leanpub**](https://leanpub.com/courses/leanpub/MARKDOWN11111111/read/preview/1)
