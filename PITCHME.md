@@ -272,7 +272,7 @@
 
 ## @color[orange](ใส่ link ใน Markdown)
 
-    [Leanpub](https://leanpub.com/courses/leanpub/markdown1/read/1?published=true)
+    [Google](https://www.google.com/)
 
 **@color[orange](ผลลัพธ์)**
 
