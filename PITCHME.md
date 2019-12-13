@@ -1,4 +1,4 @@
----?image=cover.jpg&size=cover&opacity=20
+---?image=cover.jpg&size=cover&opacity=100
 
 ## @color[orange](**Markdown** คืออะไร?)
 
