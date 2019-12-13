@@ -9,7 +9,7 @@
 
 @snapend
 
-@snap[west span-40 text-center]
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
@@ -21,7 +21,7 @@
 @snapend
 
 
-@snap[east span-40 text-center]
+@snap[west span-40 text-center]
 
 ### @color[orange](HTML)
 
@@ -46,7 +46,7 @@
 
 @snapend
 
-@snap[east span-40 text-center]
+@snap[west span-40 text-center]
 ### @color[orange](Markdown)
 @ul[list-square-bullets striped-list-items](false)  
 
@@ -61,7 +61,7 @@
 ```
 @snapend  
 
-@snap[west span-40 text-center]
+@snap[east span-40 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 # Hello
@@ -74,11 +74,11 @@
 
 ---?image=https://pbs.twimg.com/media/Bx9nMSQCEAALsqG.jpg
 
-@snap[north-east span-45 text-center]
+@snap[north-west span-45 text-center]
 ### @color[orange](**การเขียน<br>หัวเรื่อง**)  
 @snapend
 
-@snap[east span-55 text-center]
+@snap[west span-55 text-center]
 @ul[list-square-bullets striped-list-items](false)
 
 ```md
@@ -99,7 +99,7 @@
 @ulend
 @snapend
 
-@snap[west span-55 text-center-right]
+@snap[east span-55 text-center-right]
 @ul[list-square-bullets striped-list-items](false)
 
 # @color[white](หัวเรื่อง 1)
@@ -258,4 +258,4 @@
 
 **@color[orange](ผลลัพธ์)**
 
-[**Google**](https://www.google.com/) 
+[**Google**](https://www.google.com/)
