@@ -1,4 +1,4 @@
----?image=https://lifestyle.campus-star.com/app/uploads/2018/06/cover-eng-presentation.jpg&opacity=20%
+---?image=cover.jpg&size=cover&opacity=20
 
 ## @color[orange](**Markdown** คืออะไร?)
 
