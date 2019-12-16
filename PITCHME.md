@@ -249,7 +249,7 @@
 
 ## @color[orange](การใส่รูป)
 
-                    ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/ilZeuk.md.png)
+       ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/ilZeuk.md.png)
 
 **@color[orange](ผลลัพธ์)**
 
@@ -259,7 +259,11 @@
 
 ## @color[orange](การใส่วีดีโอ)
 
+<<<<<<< HEAD
                      ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+=======
+                ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+>>>>>>> df681d0df86f43be054c5fc6ac8c22fb93c7238d
 
 **@color[orange](ผลลัพธ์)**
 
@@ -269,7 +273,11 @@
 
 ## @color[orange](การใส่ลิงค์)
 
+<<<<<<< HEAD
                      [Google](https://www.google.com)
+=======
+                   [Google](https://www.google.com/)
+>>>>>>> df681d0df86f43be054c5fc6ac8c22fb93c7238d
 
 **@color[orange](ผลลัพธ์)**
 
