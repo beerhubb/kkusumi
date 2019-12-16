@@ -1,6 +1,6 @@
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
-## @color[orange](**Markdown** คืออะไร?)
+# @color[orange](**Markdown**)
  
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
@@ -20,14 +20,12 @@
 
 @snapend
 
-
 @snap[west span-40 text-center]
 
 ### @color[orange](HTML)
 
 @ul[list-square-bullets striped-list-items](false) 
 ```html
-
 <h1>Hello</h1>
 <h2>Hi</h2>
 <ul>
@@ -51,7 +49,6 @@
 @ul[list-square-bullets striped-list-items](false)  
 
 ```md
-
 # Hello
 ## Hi
 * Apple
@@ -149,7 +146,6 @@
 ### @color[orange](**แบบเรียงลำดับ**)
 
 ```md
-  
        1. แมว  
   
        1. หมา  
@@ -202,7 +198,6 @@
 ### @color[orange](**แบบไม่เรียงลำดับ**)  
 ## 
 ```md
-  
        - หนึ่ง  
   
        - สอง  
@@ -213,7 +208,6 @@
 #  
 #  
 ```md
-  
        * สี่  
        
        * ห้า  
@@ -223,7 +217,6 @@
 ```
 
 ```md
-  
        + เจ็ด  
   
        + แปด  
@@ -254,7 +247,7 @@
 
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
-## @color[orange](ใส่รูปใน Markdown)
+## @color[orange](การใส่รูป)
 
                     ![รูปภาพ](https://sv1.picz.in.th/images/2019/12/13/ilZeuk.md.png)
 
@@ -264,9 +257,9 @@
 
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
-## @color[orange](ใส่ Video ใน Markdown)
+## @color[orange](การใส่วีดีโอ)
 
-                                   ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
+                     ![วีดีโอ](https://youtu.be/HUBNt18RFbo)
 
 **@color[orange](ผลลัพธ์)**
 
@@ -274,9 +267,9 @@
 
 ---?image=http://www.iheresoft.com/demo/goodnumber_x/images/15457935156omcq55j.jpg
 
-## @color[orange](ใส่ link ใน Markdown)
+## @color[orange](การใส่ลิงค์)
 
-                                        [Google](https://www.google.com/)
+                     [Google](https://www.google.com)
 
 **@color[orange](ผลลัพธ์)**
 
